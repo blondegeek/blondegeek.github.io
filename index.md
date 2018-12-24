@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## [Atomic architect.](https://cs.lbl.gov/news-media/news/2018/tess-smidt-atomic-architect-and-2018-luis-alvarez-fellow/) Wrangler of neural nets. Geometry junkie. blondegeek.
 
-You can use the [editor on GitHub](https://github.com/blondegeek/blondegeek.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## [Resume / CV](/resume/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Past Talks](/talks/)
 
-### Markdown
+## Upcoming Talks
+* ### SIAM CSE 2019, Spokane, WA
+* ### APS March Meeting 2019, Boston, MA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Recent publications
+* ### [Tensor Field Networks](https://arxiv.org/abs/1802.08219) 
+code: [paper repo](https://github.com/tensorfieldnetworks/tensorfieldnetworks) / [recent -- se3cnn](https://github.com/mariogeiger/se3cnn)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blondegeek/blondegeek.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* ### An Automatically Curated First-Principles Database of Ferroelectrics (under review)
+code:
+<br>
+[pymatgen.analysis.ferroelectricity](https://github.com/materialsproject/pymatgen/tree/master/pymatgen/analysis/ferroelectricity) /
+<br>
+[atomate...workflow...ferroelectric](https://github.com/hackingmaterials/atomate/blob/master/atomate/vasp/workflows/base/ferroelectric.py)
+<br>
+<br>
+data:
+<br>
+[ferroelectric_search_site](https://blondegeek.github.io/ferroelectric_search_site/)
+<br>
+figshare [(1)](https://doi.org/10.6084/m9.figshare.5048425.v2) [(2)](https://doi.org/10.6084/m9.figshare.6025634.v1) [(3)](https://doi.org/10.6084/m9.figshare.6044525.v1014.04)
