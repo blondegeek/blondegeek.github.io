@@ -1,8 +1,8 @@
 ## [Atomic architect.](https://cs.lbl.gov/news-media/news/2018/tess-smidt-atomic-architect-and-2018-luis-alvarez-fellow/) Wrangler of neural nets. Geometry junkie. blondegeek.
 
-## [Resume / CV](/resume/)
+## [Resume / CV](/resume)
 
-## [Past Talks](/talks/)
+## [Past Talks](/talks)
 
 ## Upcoming Talks
 * ### SIAM CSE 2019, Spokane, WA
