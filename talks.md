@@ -14,6 +14,8 @@ Tensor Field Networks -- Google Tech Talk
 
 ## 2017
 
+Ab Automated Ab Initio Search for Ferroelectrics [(slides)](pdfs/20170421_Qualifying_Exam_Tess_Smidt_an_automated_ab_initio_search_for_ferroelectrics.pdf) -- Qualifying Exam UC Berkeley Physics Department
+
 An Automated Ab Initio Framework for Identifying New Ferroelectrics -- APS March Meeting
 
 ## 2016
