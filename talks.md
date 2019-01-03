@@ -26,7 +26,7 @@ An Automated Ab Initio Approach for Identify Small Band Gap Ferroelectrics -- AP
 
 ## 2015
 
-Ab Initio Simulations of the Structure and Energetics of Harmonic Honeycomb Iridates
+Ab Initio Simulations of the Structure and Energetics of Harmonic Honeycomb Iridates -- APS March Meeting
 
 ## 2014
 
