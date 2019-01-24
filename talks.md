@@ -2,7 +2,7 @@
 
 ## 2018
 
-[Tensor Field Networks](pdfs/20181208_tensorfieldnetworks_neurips_mol_and_mat.pdf) -- [NeuRIPs Molecules and Materials Workshop](http://www.quantum-machine.org/workshops/nips2018/)
+Tensor Field Networks [(slides)](pdfs/20181208_tensorfieldnetworks_neurips_mol_and_mat.pdf) -- [NeuRIPs Molecules and Materials Workshop](http://www.quantum-machine.org/workshops/nips2018/)
 
 Becoming an Atomic Architect [(slides)](pdfs/20181023_Becoming_an_Atomic_Architect_CMB.pdf) [(video)](https://www.youtube.com/watch?v=85K4hXvW4Tg)-- [Computational Materials at Berkeley](https://computationalmaterials.github.io/)
 
@@ -14,26 +14,32 @@ Tensor Field Networks -- Google Tech Talk
 
 ## 2017
 
+Ab Automated Ab Initio Search for Ferroelectrics [(slides)](pdfs/20170421_Qualifying_Exam_Tess_Smidt_an_automated_ab_initio_search_for_ferroelectrics.pdf) -- Qualifying Exam UC Berkeley Physics Department
+
 An Automated Ab Initio Framework for Identifying New Ferroelectrics -- APS March Meeting
 
 ## 2016
 
-[Geometry and Electronic Structure of Metal-Organic Chalcogenide Assemblies (MOChAs)](pdfs/201604_mochas_MF_inorganic_facility_seminar.pdf) -- Molecular Foundry Inorganic Facility Seminar
+Geometry and Electronic Structure of Metal-Organic Chalcogenide Assemblies [(slides)](pdfs/201604_mochas_MF_inorganic_facility_seminar.pdf) -- Molecular Foundry Inorganic Facility Seminar
 
 An Automated Ab Initio Approach for Identify Small Band Gap Ferroelectrics -- APS March Meeting
 
 ## 2015
 
-2015.03 Ab Initio Simulations of the Structure and Energetics of Harmonic Honeycomb Iridates
+Ab Initio Simulations of the Structure and Energetics of Harmonic Honeycomb Iridates -- APS March Meeting
 
 ## 2014
 
-A New Spin-anisotropic Harmonic Honeycomb Iridate -- Molecular Foundry Theory Facility Seminar
+A New Spin-anisotropic Harmonic Honeycomb Iridate [(slides)](pdfs/20140416_LIO_MF_Theory_Seminar.pdf) -- Molecular Foundry Theory Facility Seminar
 
 Spin Ordering Studies of Edge-sharing Iridates -- APS March Meeting
 
+## 2012
+
+Beam Target Optimization for DAEdALUS [(slides)](pdfs/20120402_DAEdALUS_APS_April_Meeting.pdf)-- APS April Meeting 2012
+
 ## 2011
 
-Building Neutrino Detectors -- MIT Family Weekend Physics Reception
+Building Neutrino Detectors [(slides)](pdfs/20111014_building_neutrino_detectors.pdf) -- MIT Family Weekend Physics Reception
 
-Light Detection in Liquid Argon Time Project Chamges -- Fermilab New Perspectives Conference
+Light Detection in Liquid Argon Time Project Chambers -- Fermilab New Perspectives Conference
