@@ -5,8 +5,9 @@
 ## [Past Talks](/talks)
 
 ## Upcoming Talks
-* ### SIAM CSE 2019, Spokane, WA
-* ### APS March Meeting 2019, Boston, MA
+* ### SIAM CSE 2019 [(abstract)](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=65820), March 1, 2019, Spokane, WA
+* ### APS March Meeting 2019 [(abstract)](http://meetings.aps.org/Meeting/MAR19/Session/H52), March 5, 2019, Boston, MA
+* ### MolKin2019, June 19-21, 2019, Berlin, Germany
 
 ## Recent publications
 * ### [Tensor Field Networks](https://arxiv.org/abs/1802.08219) 
