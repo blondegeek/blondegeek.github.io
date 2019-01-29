@@ -25,4 +25,4 @@ data:
 <br>
 [ferroelectric_search_site](https://blondegeek.github.io/ferroelectric_search_site/)
 <br>
-figshare [(1)](https://doi.org/10.6084/m9.figshare.5048425.v2) [(2)](https://doi.org/10.6084/m9.figshare.6025634.v1) [(3)](https://doi.org/10.6084/m9.figshare.6044525.v1014.04)
+figshare [(1)](https://doi.org/10.6084/m9.figshare.5048425.v2) [(2)](https://doi.org/10.6084/m9.figshare.6025634.v1) [(3)](https://doi.org/10.6084/m9.figshare.6044525)
