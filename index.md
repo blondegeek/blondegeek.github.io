@@ -5,8 +5,9 @@
 ## [Past Talks](/talks)
 
 ## Upcoming Talks
-* ### SIAM CSE 2019, Spokane, WA
-* ### APS March Meeting 2019, Boston, MA
+* ### SIAM CSE 2019 [(abstract)](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=65820), March 1, 2019, Spokane, WA
+* ### APS March Meeting 2019 [(abstract)](http://meetings.aps.org/Meeting/MAR19/Session/H52), March 5, 2019, Boston, MA
+* ### MolKin2019, June 19-21, 2019, Berlin, Germany
 
 ## Recent publications
 * ### [Tensor Field Networks](https://arxiv.org/abs/1802.08219) 
@@ -24,4 +25,4 @@ data:
 <br>
 [ferroelectric_search_site](https://blondegeek.github.io/ferroelectric_search_site/)
 <br>
-figshare [(1)](https://doi.org/10.6084/m9.figshare.5048425.v2) [(2)](https://doi.org/10.6084/m9.figshare.6025634.v1) [(3)](https://doi.org/10.6084/m9.figshare.6044525.v1014.04)
+figshare [(1)](https://doi.org/10.6084/m9.figshare.5048425.v2) [(2)](https://doi.org/10.6084/m9.figshare.6025634.v1) [(3)](https://doi.org/10.6084/m9.figshare.6044525)

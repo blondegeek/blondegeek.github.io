@@ -4,7 +4,7 @@
 
 Tensor Field Networks [(slides)](pdfs/20181208_tensorfieldnetworks_neurips_mol_and_mat.pdf) -- [NeuRIPs Molecules and Materials Workshop](http://www.quantum-machine.org/workshops/nips2018/)
 
-Becoming an Atomic Architect [(slides)](pdfs/20181023_Becoming_an_Atomic_Architect_CMB.pdf) [(video)](https://www.youtube.com/watch?v=85K4hXvW4Tg)-- [Computational Materials at Berkeley](https://computationalmaterials.github.io/)
+Becoming an Atomic Architect [(slides)](pdfs/20181023_Becoming_an_atomic_architect_CMB.pdf) [(video)](https://www.youtube.com/watch?v=85K4hXvW4Tg)-- [Computational Materials at Berkeley](https://computationalmaterials.github.io/)
 
 Toward the Systematic Generation of Hypothetical Atomic Structures: Neural Networks and Geometric Motifs -- Molecular Foundry Seminar (Berkeley Lab) 
 
