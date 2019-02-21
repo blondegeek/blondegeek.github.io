@@ -41,10 +41,3 @@ Computational Research Division, Berkeley Lab</i>
 <i> Conrad Group, MIT and Fermilab </i>
 <br>
 <b> (Fall 2010 - Spring 2012))
-
-## Mischief
-
-* ### The Lunch Experiment
-* ### [Cosmic Ray Chandeliers](http://blondegeek.github.io/cosmicray)
-* ### [2012 MIT Ring Committee](http://twentytwelve.mit.edu/ring/site/design)
-* ### blondegeek.net
