@@ -13,7 +13,7 @@ I don't always eat lunch, but when I do, I prefer The Lunch Experiment
 <img src="images/thelunchexp.jpg" width=30%>
 Become the most interesting grad student in the world.
   <br>
-Join... <br>The Lunch Experiment<br>
+Join... <b>The Lunch Experiment</b>.
 </center>
 
 ### [2012 MIT Ring Committee](http://twentytwelve.mit.edu/ring/site/design)
