@@ -1,6 +1,6 @@
 # Tess Eleonora Smidt
 
-[Full CV](pdfs/CV_current.pdf)
+## [Full CV](pdfs/CV_current.pdf)
 
 ## Education
 
