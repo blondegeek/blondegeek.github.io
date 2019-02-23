@@ -9,7 +9,7 @@ M.A. in Physics, <b> U.C. Berkeley</b> (2014) <br>
 S.B in Physics with Minor in Architecture, <b>MIT</b> (2012)
 
 
-## Research
+## Research Positions
 
 * ### Luis W. Alvarez Postdoctoral Fellow in Computing Sciences
 <i>Computational Chemistry, Materials, and Climate Group
