@@ -56,5 +56,5 @@ Designing Electronic Properties of Metal-Organic Chalcogenides [(pdf)](pdfs/2015
 
 ## 2011
 
-Acrylic Lightguides for Use in Liquid Argon Time Projection Chambers [(pdf)](pdfs/2011_FermilabUsersMeetingPoster_LArTPCs.pdf) -- Fermilab Users Meeting 
+Acrylic Lightguides for Use in Liquid Argon Time Projection Chambers [(pdf)](pdfs/2011_FermilabUsersMeetingPoster_LArTPCs_TessSmidt.pdf) -- Fermilab Users Meeting 
 
