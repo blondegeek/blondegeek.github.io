@@ -4,6 +4,8 @@
 
 ## [Past Talks](/talks)
 
+## [Mischief](/mischief)
+
 ## Upcoming Talks
 * ### SIAM CSE 2019 [(abstract)](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=65820), March 1, 2019, Spokane, WA
 * ### APS March Meeting 2019 [(abstract)](http://meetings.aps.org/Meeting/MAR19/Session/H52), March 5, 2019, Boston, MA

@@ -36,10 +36,25 @@ Spin Ordering Studies of Edge-sharing Iridates -- APS March Meeting
 
 ## 2012
 
-Beam Target Optimization for DAEdALUS [(slides)](pdfs/20120402_DAEdALUS_APS_April_Meeting.pdf)-- APS April Meeting 2012
+Beam Target Optimization for DAEdALUS [(slides)](pdfs/20120402_DAEdALUS_APS_April_Meeting.pdf)-- APS April Meeting
 
 ## 2011
 
 Building Neutrino Detectors [(slides)](pdfs/20111014_building_neutrino_detectors.pdf) -- MIT Family Weekend Physics Reception
 
 Light Detection in Liquid Argon Time Project Chambers -- Fermilab New Perspectives Conference
+
+# Posters
+
+## 2016
+
+A Self-Assembled Bulk 2D Semiconductor [(pdf)](pdfs/2016_MFUsersMeeting_Poster_Mithrene.pdf) -- Molecular Foundry Users Meeting
+
+## 2015
+
+Designing Electronic Properties of Metal-Organic Chalcogenides [(pdf)](pdfs/2015_MFUsersMeeting_Poster_PbS.pdf) -- Molecular Foundry Users Meeting
+
+## 2011
+
+Acrylic Lightguides for Use in Liquid Argon Time Projection Chambers [(pdf)](pdfs/2011_FermilabUsersMeetingPoster_LArTPCs.pdf) -- Fermilab Users Meeting 
+
