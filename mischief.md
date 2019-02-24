@@ -11,7 +11,7 @@ The Lunch Experiment was an automated system I wrote with [Nate Thomas](https://
 <center>
 I don't always eat lunch, but when I do, I prefer The Lunch Experiment
   
-![](https://blondegeek.github.io/assets/img/thelunchexp.jpg)
+<img src="https://blondegeek.github.io/assets/img/thelunchexp.jpg" width=30%>
 
 Become the most interesting grad student in the world.
   <br>
