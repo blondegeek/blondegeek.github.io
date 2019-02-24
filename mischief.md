@@ -23,7 +23,7 @@ Join... <b>The Lunch Experiment</b>.
 
 ### [2012 MIT Ring Committee](http://twentytwelve.mit.edu/ring/site/design)
 
-### blondegeek.net
+### blondegeek.net -- the oxymoron that came true
 I’ve had blondegeek.net as a personal website since March 14th 2004 (yes, that would be Pi Day). In the summer of 2006 (between my junior and senior years in high school), I turned blondegeek into a t-shirt company. blondegeek's stock traveled with me to MIT for undergrad. Then after four intense years, countless problem sets, and a S.B. in Physics with a minor in Architecture later, we traveled to Berkeley where I earned my physics PhD at Cal. blondegeek's stock was nestled next to my physics textbooks. If you wear a blondegeek shirt purchased during this time and experienced a sudden understanding of quantum mechanics, cosmology, electromagnetism, or other delicious physics topics the proximity of that item to the respective physics textbooks and the laws of diffusion are to blame. :)
 
 ![](https://blondegeek.github.io/assets/img/blondegeek_screenshot.png)
