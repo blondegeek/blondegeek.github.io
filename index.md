@@ -6,9 +6,10 @@
 
 ## [Mischief](/mischief)
 
-## Upcoming Talks
-* ### SIAM CSE 2019 [(abstract)](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=65820), March 1, 2019, Spokane, WA
-* ### APS March Meeting 2019 [(abstract)](http://meetings.aps.org/Meeting/MAR19/Session/H52), March 5, 2019, Boston, MA
+## Upcoming Travel and Talks
+* ### Flatiron Institute, May 20-21, 2019, New York, NY
+* ### DISC @ Lehigh TRIPODS+X Conference, Lehigh University, May 22-24, 2019, Bethlehem, PA
+* ### TGDA @ OSU TRIPODS Center Workshop on "Structure in the Micro-world", Ohio State University, May 28-31, 2019, Colombus, OH
 * ### MolKin2019, June 19-21, 2019, Berlin, Germany
 
 ## Recent publications
