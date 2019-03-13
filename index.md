@@ -7,6 +7,7 @@
 ## [Mischief](/mischief)
 
 ## Upcoming Travel and Talks
+* ### Rising Stars in Computational and Data Sciences, ICES, UT Austin, April 9-10, 2019, Austin, TX
 * ### Flatiron Institute, May 20-21, 2019, New York, NY
 * ### DISC @ Lehigh TRIPODS+X Conference, Lehigh University, May 22-24, 2019, Bethlehem, PA
 * ### TGDA @ OSU TRIPODS Center Workshop on "Structure in the Micro-world", Ohio State University, May 28-31, 2019, Colombus, OH
