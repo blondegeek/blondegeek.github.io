@@ -11,7 +11,7 @@
 * ### Flatiron Institute, May 20-21, 2019, New York, NY
 * ### DISC @ Lehigh TRIPODS+X Conference, Lehigh University, May 22-24, 2019, Bethlehem, PA
 * ### TGDA @ OSU TRIPODS Center Workshop on "Structure in the Micro-world", Ohio State University, May 28-31, 2019, Colombus, OH
-* ### MolKin2019, June 19-21, 2019, Berlin, Germany
+* ### MolKin2019, Freie Universit&auml;t Berlin, June 19-21, 2019, Berlin, Germany
 
 ## Recent publications
 * ### [Tensor Field Networks](https://arxiv.org/abs/1802.08219) 
