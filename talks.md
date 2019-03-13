@@ -1,5 +1,11 @@
 # Talks
 
+## 2019
+
+A case study of neural networks for scientific data: generating atomic structures -- APS March Meeting [(abstract)](http://meetings.aps.org/Meeting/MAR19/Session/H52)
+
+Toward the systematic generation of hypothetical atomic structures: Neural networks and geometric motifs -- SIAM CSE [(abstract)](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=65820)
+
 ## 2018
 
 Tensor Field Networks [(slides)](pdfs/20181208_tensorfieldnetworks_neurips_mol_and_mat.pdf) -- [NeuRIPs Molecules and Materials Workshop](http://www.quantum-machine.org/workshops/nips2018/)
