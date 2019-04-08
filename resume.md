@@ -35,9 +35,9 @@ Computational Research Division, Berkeley Lab</i>
 * ### Undergraduate Research Assistant
 <i> Compact Muon Solenoid, MIT and CERN </i>
 <br>
-<b>Summer 2012</b>
+<b>(Summer 2012)</b>
 <br>
 <br>
 <i> Conrad Group, MIT and Fermilab </i>
 <br>
-<b> (Fall 2010 - Spring 2012))
+<b>(Fall 2010 - Spring 2012)</b>
