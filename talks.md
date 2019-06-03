@@ -2,6 +2,12 @@
 
 ## 2019
 
+Toward the systematic generation of hypothetical atomic structures: Neural networks and geometric motifs -- [Structure in the Microworld at TGDA@OSU](https://tdai.osu.edu/tripods-workshop/)
+
+Tensor Field Networks -- [Foundational and Applied Data Science for Molecular and Materials Science and Engineering at Lehigh University](https://wordpress.lehigh.edu/indisc/)
+
+Tensor Field Networks -- Informal Seminar at the Flatiron Insitute
+
 A case study of neural networks for scientific data: generating atomic structures -- APS March Meeting [(abstract)](http://meetings.aps.org/Meeting/MAR19/Session/H52)
 
 Toward the systematic generation of hypothetical atomic structures: Neural networks and geometric motifs -- SIAM CSE [(abstract)](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=65820)
