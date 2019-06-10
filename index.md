@@ -7,11 +7,10 @@
 ## [Mischief](/mischief)
 
 ## Upcoming Travel and Talks
-* ### Rising Stars in Computational and Data Sciences, ICES, UT Austin, April 9-10, 2019, Austin, TX
-* ### Flatiron Institute, May 20-21, 2019, New York, NY
-* ### DISC @ Lehigh TRIPODS+X Conference, Lehigh University, May 22-24, 2019, Bethlehem, PA
-* ### TGDA @ OSU TRIPODS Center Workshop on "Structure in the Micro-world", Ohio State University, May 28-31, 2019, Colombus, OH
-* ### MolKin2019, Freie Universit&auml;t Berlin, June 19-21, 2019, Berlin, Germany
+* ### [Machine Learning in Materials Genome](https://magics.usc.edu/workshop/spetses_2019/), AKSS, June 16-21, 2019, Spetses, Greece
+* ### [MolKin2019](https://sites.google.com/view/molkin2019/home), Freie Universit&auml;t Berlin, June 19-21, 2019, Berlin, Germany
+* ### [CNMS User Meeting](https://cnmsusermeeting.ornl.gov/), Oakridge National Laboratory, August 12-14, 2019, Knoxville, TN
+* ### [Machine Learning for Quantum Matter](https://agenda.albanova.se/conferenceDisplay.py?confId=5644), Nordita, August 26-28, 2019, Stockholm, Sweden
 
 ## Recent publications
 * ### [Tensor Field Networks](https://arxiv.org/abs/1802.08219) 
