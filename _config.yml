@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: Tess E. Smidt
 author: Tess E. Smidt
 logo: tess_smidt_headshot.jpeg
-description: <a href="http://crd.lbl.gov/departments/computational-science/ccmc/staff/alvarez-fellows/tess-smidt/">Luis W. Alvarez Postdoctoral Fellow in Computing Sciences, Berkeley Lab</a>
+description: <a href="http://crd.lbl.gov/departments/computational-science/ccmc/staff/alvarez-fellows/tess-smidt/">Luis W. Alvarez Postdoctoral Fellow in Computing Sciences, Berkeley Lab</a><br><a href="https://atomicarchitects.github.io/">Atomic Architects Research Group Website</a>
 plugins:
   - jekyll-seo-tag
