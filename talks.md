@@ -2,6 +2,14 @@
 
 ## 2019
 
+Euclidean Neural Networks for emulating ab initio calculations and generating atomic geometries -- [Machine Learning for Quantum Matter](https://agenda.albanova.se/conferenceDisplay.py?confId=5644), Nordita, Sweden
+
+Toward the systematic generation of hypothetical atomic structures: Neural networks and geometric motifs -- [CNMS User Meeting](https://cnmsusermeeting.ornl.gov/), Oak Ridge National Laboratory
+
+Toward the systematic generation of hypothetical atomic structures: Neural networks and geometric motifs -- [MolKin2019](https://sites.google.com/view/molkin2019/home), Freie Universit&auml;t Berlin, Germany
+
+Tensor field networks -- [Machine Learning in Materials Genome](https://magics.usc.edu/workshop/spetses_2019/), AKSS, Spetses, Greece
+
 Toward the systematic generation of hypothetical atomic structures: Neural networks and geometric motifs -- [Structure in the Microworld at TGDA@OSU](https://tdai.osu.edu/tripods-workshop/)
 
 Tensor Field Networks -- [Foundational and Applied Data Science for Molecular and Materials Science and Engineering at Lehigh University](https://wordpress.lehigh.edu/indisc/)
