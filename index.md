@@ -8,7 +8,7 @@
 
 ## Upcoming Travel and Talks
 * ### [Workshop I: From Passive to Active: Generative and Reinforcement Learning with Physics](http://www.ipam.ucla.edu/programs/workshops/workshop-i-from-passive-to-active-generative-and-reinforcement-learning-with-physics/?tab=overview), IPAM at UCLA, September 23-27, 2019, Los Angeles, CA
-* ## [CECAM-Lorentz workshop on Computing Complex Mechanical Systems](https://www.cecam.org/workshop1821/), EPFL, January 22-24, 2019, Lausanne, Switzerland
+* ### [CECAM-Lorentz workshop on Computing Complex Mechanical Systems](https://www.cecam.org/workshop1821/), EPFL, January 22-24, 2019, Lausanne, Switzerland
 
 ## Recent publications
 * ### [Tensor Field Networks](https://arxiv.org/abs/1802.08219) 
