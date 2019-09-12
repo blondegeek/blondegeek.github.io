@@ -7,10 +7,8 @@
 ## [Mischief](/mischief)
 
 ## Upcoming Travel and Talks
-* ### [Machine Learning in Materials Genome](https://magics.usc.edu/workshop/spetses_2019/), AKSS, June 16-21, 2019, Spetses, Greece
-* ### [MolKin2019](https://sites.google.com/view/molkin2019/home), Freie Universit&auml;t Berlin, June 19-21, 2019, Berlin, Germany
-* ### [CNMS User Meeting](https://cnmsusermeeting.ornl.gov/), Oak Ridge National Laboratory, August 12-14, 2019, Oak Ridge, TN
-* ### [Machine Learning for Quantum Matter](https://agenda.albanova.se/conferenceDisplay.py?confId=5644), Nordita, August 26-28, 2019, Stockholm, Sweden
+* ### [Workshop I: From Passive to Active: Generative and Reinforcement Learning with Physics](http://www.ipam.ucla.edu/programs/workshops/workshop-i-from-passive-to-active-generative-and-reinforcement-learning-with-physics/?tab=overview), IPAM at UCLA, September 23-27, 2019, Los Angeles, CA
+* ## [CECAM-Lorentz workshop on Computing Complex Mechanical Systems](https://www.cecam.org/workshop1821/), EPFL, January 22-24, 2019, Lausanne, Switzerland
 
 ## Recent publications
 * ### [Tensor Field Networks](https://arxiv.org/abs/1802.08219) 
