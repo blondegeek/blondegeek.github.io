@@ -11,7 +11,8 @@
 * ### [CECAM-Lorentz workshop on Computing Complex Mechanical Systems](https://www.cecam.org/workshop1821/), EPFL, January 22-24, 2020, Lausanne, Switzerland
 
 ## Code
-* ### [Euclidean Neural Networks](https://github.com/mariogeiger/se3cnn) -- Convolutional neural networks for point clouds and voxels with Euclidean symmetries (3D translation and 3D rotation). The current code (on the `point` branch) is a merger of the work from [Tensor field networks](https://arxiv.org/abs/1802.08219) and [3D Steerable CNNs](https://arxiv.org/abs/1807.02547).
+* ### [Euclidean Neural Networks](https://github.com/mariogeiger/se3cnn)
+Convolutional neural networks for point clouds and voxels with Euclidean symmetries (3D translation and 3D rotation). The current code (on the `point` branch) is a merger of the work from [Tensor field networks](https://arxiv.org/abs/1802.08219) and [3D Steerable CNNs](https://arxiv.org/abs/1807.02547).
 
 ## Recent publications
 * ### [Tensor Field Networks](https://arxiv.org/abs/1802.08219) 
