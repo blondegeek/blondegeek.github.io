@@ -2,9 +2,13 @@
 
 ## 2019
 
+[Workshop I: From Passive to Active: Generative and Reinforcement Learning with Physics](http://www.ipam.ucla.edu/programs/workshops/workshop-i-from-passive-to-active-generative-and-reinforcement-learning-with-physics/?tab=overview), ([video](http://www.ipam.ucla.edu/abstract/?tid=16346&pcode=MLPWS1) | [slides](http://helper.ipam.ucla.edu/publications/mlpws1/mlpws1_16346.pdf) | [all talks](http://www.ipam.ucla.edu/programs/workshops/workshop-i-from-passive-to-active-generative-and-reinforcement-learning-with-physics/?tab=schedule)),  IPAM at UCLA, Los Angeles, CA
+
+"People's Choice" Winner, [Berkeley Lab Postdoc Research SLAM!](https://slam.lbl.gov/) ([video](https://youtu.be/s42LFgApomg) | [full show](https://www.youtube.com/watch?v=LD_2VRoBfC8&feature=youtu.be)), Berkeley Lab, Berkeley, CA
+
 Euclidean Neural Networks for emulating ab initio calculations and generating atomic geometries -- [Machine Learning for Quantum Matter](https://agenda.albanova.se/conferenceDisplay.py?confId=5644), Nordita, Sweden
 
-Toward the systematic generation of hypothetical atomic structures: Neural networks and geometric motifs -- [CNMS User Meeting](https://cnmsusermeeting.ornl.gov/), Oak Ridge National Laboratory
+Toward the systematic generation of hypothetical atomic structures: Neural networks and geometric motifs -- [CNMS User Meeting](https://cnmsusermeeting.ornl.gov/), Oak Ridge National Laboratory, Oak Ridge, TN
 
 Toward the systematic generation of hypothetical atomic structures: Neural networks and geometric motifs -- [MolKin2019](https://sites.google.com/view/molkin2019/home), Freie Universit&auml;t Berlin, Germany
 
@@ -14,7 +18,7 @@ Toward the systematic generation of hypothetical atomic structures: Neural netwo
 
 Tensor Field Networks -- [Foundational and Applied Data Science for Molecular and Materials Science and Engineering at Lehigh University](https://wordpress.lehigh.edu/indisc/)
 
-Tensor Field Networks -- Informal Seminar at the Flatiron Insitute
+Tensor Field Networks -- Informal Seminar at the Flatiron Insitute, NYC
 
 A case study of neural networks for scientific data: generating atomic structures -- APS March Meeting [(abstract)](http://meetings.aps.org/Meeting/MAR19/Session/H52)
 
@@ -24,7 +28,7 @@ Toward the systematic generation of hypothetical atomic structures: Neural netwo
 
 Tensor Field Networks [(slides)](pdfs/20181208_tensorfieldnetworks_neurips_mol_and_mat.pdf) -- [NeuRIPs Molecules and Materials Workshop](http://www.quantum-machine.org/workshops/nips2018/)
 
-Becoming an Atomic Architect [(slides)](pdfs/20181023_Becoming_an_atomic_architect_CMB.pdf) [(video)](https://www.youtube.com/watch?v=85K4hXvW4Tg)-- [Computational Materials at Berkeley](https://computationalmaterials.github.io/)
+Becoming an Atomic Architect ([slides](pdfs/20181023_Becoming_an_atomic_architect_CMB.pdf) | [video](https://www.youtube.com/watch?v=85K4hXvW4Tg))-- [Computational Materials at Berkeley](https://computationalmaterials.github.io/)
 
 Toward the Systematic Generation of Hypothetical Atomic Structures: Neural Networks and Geometric Motifs -- Molecular Foundry Seminar (Berkeley Lab) 
 
