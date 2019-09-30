@@ -7,8 +7,6 @@
 ## [Mischief](/mischief)
 
 ## Upcoming Travel and Talks
-* ### [Berkeley Lab Postdoc Research SLAM!](https://slam.lbl.gov/), Berkeley Lab, September 19, 2019, Berkeley, CA
-* ### [Workshop I: From Passive to Active: Generative and Reinforcement Learning with Physics](http://www.ipam.ucla.edu/programs/workshops/workshop-i-from-passive-to-active-generative-and-reinforcement-learning-with-physics/?tab=overview), IPAM at UCLA, September 23-27, 2019, Los Angeles, CA
 * ### [CECAM-Lorentz workshop on Computing Complex Mechanical Systems](https://www.cecam.org/workshop1821/), EPFL, January 22-24, 2020, Lausanne, Switzerland
 
 ## Code
