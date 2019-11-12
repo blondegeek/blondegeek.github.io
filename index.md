@@ -7,7 +7,7 @@
 ## [Mischief](/mischief)
 
 ## Upcoming Travel and Talks
-* ### `se3cnn` Tutorial at IPAM, UCLA, November 14, 2019
+* ### [E(3) Equivariant Neural Network Tutorial](https://blondegeek.github.io/e3nn_tutorial/) at IPAM, UCLA, November 14, 2019
 * ### [CECAM-Lorentz workshop on Computing Complex Mechanical Systems](https://www.cecam.org/workshop1821/), EPFL, January 22-24, 2020, Lausanne, Switzerland
 
 ## Code
