@@ -7,10 +7,13 @@
 ## [Mischief](/mischief)
 
 ## Upcoming Travel and Talks
-* ### [E(3) Equivariant Neural Network Tutorial](https://blondegeek.github.io/e3nn_tutorial/) at IPAM, UCLA, November 14, 2019
+* ### [eScience Institute Community Seminar](https://escience.washington.edu/get-involved/escience-community-seminar/), University of Washington, Seattle, WA, December 3, 2019
 * ### [CECAM-Lorentz workshop on Computing Complex Mechanical Systems](https://www.cecam.org/workshop1821/), EPFL, January 22-24, 2020, Lausanne, Switzerland
 
 ## Code
+* ### [e3nn_tutorial: Tutorial on Euclidean symmetry equivariant neural networks](https://blondegeek.github.io/e3nn_tutorial/)
+This tutorial uses a combination of slides and interactive jupyter notebooks using the `se3cnn` framework to present fundamental concepts about Euclidean equivariant neural networks: data types, equivariant operations, how symmetry effects simple tasks, and how to construct the building blocks of `se3cnn`. This tutorial was originally presented at IPAM at UCLA on November 14, 2019. 
+
 * ### [Euclidean Neural Networks](https://github.com/mariogeiger/se3cnn)
 Convolutional neural networks for point clouds and voxels with Euclidean symmetries (3D translation and 3D rotation). The current code (on the `point` branch) is a merger of the work from [Tensor field networks](https://arxiv.org/abs/1802.08219) and [3D Steerable CNNs](https://arxiv.org/abs/1807.02547).
 

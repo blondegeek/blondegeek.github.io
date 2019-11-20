@@ -2,6 +2,8 @@
 
 ## 2019
 
+[E(3) Equivariant Neural Network Tutorial](https://blondegeek.github.io/e3nn_tutorial/) at IPAM, UCLA, November 14, 2019
+
 [Workshop I: From Passive to Active: Generative and Reinforcement Learning with Physics](http://www.ipam.ucla.edu/programs/workshops/workshop-i-from-passive-to-active-generative-and-reinforcement-learning-with-physics/?tab=overview), ([video](http://www.ipam.ucla.edu/abstract/?tid=16346&pcode=MLPWS1) // [slides](http://helper.ipam.ucla.edu/publications/mlpws1/mlpws1_16346.pdf) // [all talks](http://www.ipam.ucla.edu/programs/workshops/workshop-i-from-passive-to-active-generative-and-reinforcement-learning-with-physics/?tab=schedule)),  IPAM at UCLA, Los Angeles, CA
 
 "People's Choice" Winner, [Berkeley Lab Postdoc Research SLAM!](https://slam.lbl.gov/) ([video](https://youtu.be/s42LFgApomg) // [full show](https://www.youtube.com/watch?v=LD_2VRoBfC8&feature=youtu.be)), Berkeley Lab, Berkeley, CA
