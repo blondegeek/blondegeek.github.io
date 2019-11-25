@@ -7,8 +7,9 @@
 ## [Mischief](/mischief)
 
 ## Upcoming Travel and Talks
-* ### [eScience Institute Community Seminar](https://escience.washington.edu/get-involved/escience-community-seminar/), University of Washington, Seattle, WA, December 3, 2019
+* ### [eScience Institute Community Seminar](https://escience.washington.edu/get-involved/escience-community-seminar/), University of Washington, December 3, 2019, Seattle, WA
 * ### [CECAM-Lorentz workshop on Computing Complex Mechanical Systems](https://www.cecam.org/workshop1821/), EPFL, January 22-24, 2020, Lausanne, Switzerland
+* ### [Applied Machine Learning Days], EPFL, January 27-28, 2020, Lausanne, Switzerland
 
 ## Code
 * ### [e3nn_tutorial: Tutorial on Euclidean symmetry equivariant neural networks](https://blondegeek.github.io/e3nn_tutorial/)
@@ -33,4 +34,4 @@ data:
 <br>
 [ferroelectric_search_site](https://blondegeek.github.io/ferroelectric_search_site/)
 <br>
-figshare [(1)](https://doi.org/10.6084/m9.figshare.5048425.v2) [(2)](https://doi.org/10.6084/m9.figshare.6025634.v1) [(3)](https://doi.org/10.6084/m9.figshare.6044525)
+[figshare data deposit](https://dx.doi.org/10.6084/m9.figshare.6025634)
