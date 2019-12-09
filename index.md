@@ -7,7 +7,6 @@
 ## [Mischief](/mischief)
 
 ## Upcoming Travel and Talks
-* ### [eScience Institute Community Seminar](https://escience.washington.edu/get-involved/escience-community-seminar/), University of Washington, December 3, 2019, Seattle, WA
 * ### [CECAM-Lorentz workshop on Computing Complex Mechanical Systems](https://www.cecam.org/workshop1821/), EPFL, January 22-24, 2020, Lausanne, Switzerland
 * ### [Applied Machine Learning Days](https://appliedmldays.org), EPFL, January 27-28, 2020, Lausanne, Switzerland
 

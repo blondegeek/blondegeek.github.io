@@ -2,6 +2,8 @@
 
 ## 2019
 
+[Distinguished Young Academics Data Scientists (DYADS) eScience Institute Seminar](https://escience.washington.edu/data-science-seminar-12/) ([video](https://youtu.be/4gKsQG9Deew)), University of Washington, Seattle, WA
+
 [E(3) Equivariant Neural Network Tutorial](https://blondegeek.github.io/e3nn_tutorial/), IPAM at UCLA, Los Angeles, CA
 
 [Workshop I: From Passive to Active: Generative and Reinforcement Learning with Physics](http://www.ipam.ucla.edu/programs/workshops/workshop-i-from-passive-to-active-generative-and-reinforcement-learning-with-physics/?tab=overview), ([video](http://www.ipam.ucla.edu/abstract/?tid=16346&pcode=MLPWS1) // [slides](http://helper.ipam.ucla.edu/publications/mlpws1/mlpws1_16346.pdf) // [all talks](http://www.ipam.ucla.edu/programs/workshops/workshop-i-from-passive-to-active-generative-and-reinforcement-learning-with-physics/?tab=schedule)),  IPAM at UCLA, Los Angeles, CA
