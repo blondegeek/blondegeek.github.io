@@ -8,7 +8,7 @@
 
 ## Upcoming Travel and Talks
 * ### [CECAM-Lorentz workshop on Computing Complex Mechanical Systems](https://www.cecam.org/workshop1821/), EPFL, January 22-24, 2020, Lausanne, Switzerland
-* ### [Applied Machine Learning Days](https://appliedmldays.org), EPFL, January 27-28, 2020, Lausanne, Switzerland
+* ### [Applied Machine Learning Days -- AI and the Molecular World](https://appliedmldays.org/tracks/ai-molecular-world), EPFL, January 27-28, 2020, Lausanne, Switzerland
 * ### [Applied Artificial Intelligence Initiative Seminar](https://aaii.ucsc.edu/aaii-seminars/), UC Santa Cruz, April 1, 2020, Santa Cruz, CA
 * ### [Physics Informed Machine Learning Minisymposium](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=67968), [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20), May 6, 2020, Cincinnati, OH 
 
