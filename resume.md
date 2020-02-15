@@ -4,7 +4,7 @@
 
 ## Education
 
-Ph.D. in Physics, <b>U.C. Berkeley</b> (2018)  [[Thesis]](pdfs/TES_thesis_small.pdf)<br>
+Ph.D. in Physics, <b>U.C. Berkeley</b> (2018)  [[Dissertation]](pdfs/TES_dissertation_small.pdf)<br>
 M.A. in Physics, <b> U.C. Berkeley</b> (2014) <br>
 S.B in Physics with Minor in Architecture, <b>MIT</b> (2012)
 
