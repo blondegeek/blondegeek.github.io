@@ -1,7 +1,11 @@
 # Talks
 
-## 2019
+## 2020
+[CECAM-Lorentz workshop on Computing Complex Mechanical Systems](https://www.cecam.org/workshop1821/), EPFL, January 22-24, 2020, Lausanne, Switzerland
 
+[Applied Machine Learning Days -- AI and the Molecular World](https://appliedmldays.org/tracks/ai-molecular-world), EPFL, January 27-28, 2020, Lausanne, Switzerland
+
+## 2019
 [Distinguished Young Academics Data Scientists (DYADS) eScience Institute Seminar](https://escience.washington.edu/data-science-seminar-12/) ([video](https://youtu.be/4gKsQG9Deew)), University of Washington, Seattle, WA
 
 [E(3) Equivariant Neural Network Tutorial](https://blondegeek.github.io/e3nn_tutorial/), IPAM at UCLA, Los Angeles, CA
