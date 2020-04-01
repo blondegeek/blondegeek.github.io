@@ -7,22 +7,22 @@
 ## [Mischief](/mischief)
 
 ## Upcoming Travel and Talks
-* ### Center for Computing Research Seminar, Sandia National Laboratory, March 11, 2020, Albuquerque, NM
-* ### [Applied Artificial Intelligence Initiative Seminar](https://aaii.ucsc.edu/aaii-seminars/), UC Santa Cruz, April 1, 2020, Santa Cruz, CA
-* ### [Physics Informed Machine Learning Minisymposium](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=67968), [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20), May 6, 2020, Cincinnati, OH 
+* ### [REMOTE SEMINAR][Applied Artificial Intelligence Initiative Seminar](https://aaii.ucsc.edu/aaii-seminars/), UC Santa Cruz, April 8, 2020, Santa Cruz, CA
 
 ## Code
 * ### [e3nn_tutorial: Tutorial on Euclidean symmetry equivariant neural networks](https://blondegeek.github.io/e3nn_tutorial/)
-This tutorial uses a combination of slides and interactive jupyter notebooks using the `se3cnn` framework to present fundamental concepts about Euclidean equivariant neural networks: data types, equivariant operations, how symmetry effects simple tasks, and how to construct the building blocks of `se3cnn`. This tutorial was originally presented at IPAM at UCLA on November 14, 2019. 
+This tutorial uses a combination of slides and interactive jupyter notebooks using the `e3nn` framework to present fundamental concepts about Euclidean equivariant neural networks: data types, equivariant operations, how symmetry effects simple tasks, and how to construct the building blocks of `e3nn`. This tutorial was originally presented at IPAM at UCLA on November 14, 2019. 
 
-* ### [Euclidean Neural Networks](https://github.com/mariogeiger/se3cnn)
-Convolutional neural networks for point clouds and voxels with Euclidean symmetries (3D translation and 3D rotation). The current code (on the `point` branch) is a merger of the work from [Tensor field networks](https://arxiv.org/abs/1802.08219) and [3D Steerable CNNs](https://arxiv.org/abs/1807.02547).
+* ### [Euclidean Neural Networks](https://github.com/e3nn/e3nn)
+Convolutional neural networks for point clouds and voxels with Euclidean symmetries (3D translation and 3D rotation). The current code is a merger of the work from [Tensor field networks](https://arxiv.org/abs/1802.08219) and [3D Steerable CNNs](https://arxiv.org/abs/1807.02547).
 
 ## Recent publications
 * ### [Tensor Field Networks](https://arxiv.org/abs/1802.08219) 
 code: [paper repo](https://github.com/tensorfieldnetworks/tensorfieldnetworks) / [recent -- se3cnn](https://github.com/mariogeiger/se3cnn)
 
-* ### An Automatically Curated First-Principles Database of Ferroelectrics (under review)
+* ### [An Automatically Curated First-Principles Database of Ferroelectrics](https://doi.org/10.1038/s41597-020-0407-9) 
+[Smidt, T.E., Mack, S.A., Reyes-Lillo, S.E. et al. Sci Data 7, 72 (2020).](https://www.nature.com/articles/s41597-020-0407-9#citeas)
+<br>
 code:
 <br>
 [pymatgen.analysis.ferroelectricity](https://github.com/materialsproject/pymatgen/tree/master/pymatgen/analysis/ferroelectricity) /

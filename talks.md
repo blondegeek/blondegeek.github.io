@@ -1,6 +1,8 @@
 # Talks
 
 ## 2020
+Center for Computing Research Seminar, Sandia National Laboratory, March 11, 2020, Albuquerque, NM
+
 [CECAM-Lorentz workshop on Computing Complex Mechanical Systems](https://www.cecam.org/workshop1821/), EPFL, January 22-24, 2020, Lausanne, Switzerland
 
 [Applied Machine Learning Days -- AI and the Molecular World](https://appliedmldays.org/tracks/ai-molecular-world), EPFL, January 27-28, 2020, Lausanne, Switzerland
