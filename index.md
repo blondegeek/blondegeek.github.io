@@ -23,6 +23,7 @@ code: [paper repo](https://github.com/tensorfieldnetworks/tensorfieldnetworks) /
 * ### [An Automatically Curated First-Principles Database of Ferroelectrics](https://doi.org/10.1038/s41597-020-0407-9) 
 [Smidt, T.E., Mack, S.A., Reyes-Lillo, S.E. et al. Sci Data 7, 72 (2020).](https://www.nature.com/articles/s41597-020-0407-9#citeas)
 <br>
+<br>
 code:
 <br>
 [pymatgen.analysis.ferroelectricity](https://github.com/materialsproject/pymatgen/tree/master/pymatgen/analysis/ferroelectricity) /
