@@ -1,5 +1,12 @@
 # Mischief
 
+### Carpentry and Sewing
+* [Ladder(s)](https://www.instagram.com/p/B_V52xQnTYv/)
+* [3D Tetris Ottomans](https://www.instagram.com/p/B_V4S1MH3Td/)
+* [A Simple Box with Sliding Shelves](https://www.instagram.com/p/B_V45PtHRT2/)
+* [Edge-sharing tetrahedron pillows](https://www.instagram.com/p/B_V3SjCH8XB/)
+* [Octahedron](https://www.instagram.com/p/B_V2SRIns8N/)
+
 ### [Cosmic Ray Chandeliers](http://blondegeek.github.io/cosmicray)
 The "Cosmic Ray Chandeliers" is a science-art installation located on M.I.T.'s campus on the 5th floor between buildings 16 and 26. The Chandeliers illumiate upon detecting particles, called muons, created in cosmic ray showers. 
 

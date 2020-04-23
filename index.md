@@ -7,13 +7,14 @@
 ## [Mischief](/mischief)
 
 ## Upcoming Travel and Talks
-* ### [REMOTE SEMINAR] [Applied Artificial Intelligence Initiative Seminar](https://aaii.ucsc.edu/aaii-seminars/), UC Santa Cruz, April 8, 2020, Santa Cruz, CA
+
+* Sending well wishes and health to you in your loved ones.
 
 ## Code
 * ### [e3nn_tutorial: Tutorial on Euclidean symmetry equivariant neural networks](https://blondegeek.github.io/e3nn_tutorial/)
 This tutorial uses a combination of slides and interactive jupyter notebooks using the `e3nn` framework to present fundamental concepts about Euclidean equivariant neural networks: data types, equivariant operations, how symmetry effects simple tasks, and how to construct the building blocks of `e3nn`. This tutorial was originally presented at IPAM at UCLA on November 14, 2019. 
 
-* ### [Euclidean Neural Networks](https://github.com/e3nn/e3nn)
+* ### [`e3nn`: A framework for Euclidean symmetry equivariant neural networks](https://github.com/e3nn/e3nn)
 Convolutional neural networks for point clouds and voxels with Euclidean symmetries (3D translation and 3D rotation). The current code is a merger of the work from [Tensor field networks](https://arxiv.org/abs/1802.08219) and [3D Steerable CNNs](https://arxiv.org/abs/1807.02547).
 
 ## Recent publications

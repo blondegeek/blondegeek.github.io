@@ -1,11 +1,13 @@
 # Talks
 
 ## 2020
+[REMOTE SEMINAR] [Applied Artificial Intelligence Initiative Seminar](https://aaii.ucsc.edu/aaii-seminars/), UC Santa Cruz, April 8, 2020, Santa Cruz, CA
+
 Center for Computing Research Seminar, Sandia National Laboratory, March 11, 2020, Albuquerque, NM
 
 [CECAM-Lorentz workshop on Computing Complex Mechanical Systems](https://www.cecam.org/workshop1821/), EPFL, January 22-24, 2020, Lausanne, Switzerland
 
-[Applied Machine Learning Days -- AI and the Molecular World](https://appliedmldays.org/tracks/ai-molecular-world), EPFL, January 27-28, 2020, Lausanne, Switzerland
+[Applied Machine Learning Days -- AI and the Molecular World](https://appliedmldays.org/tracks/ai-molecular-world) ([video](https://www.youtube.com/watch?v=xGGpxVSWdmg)), EPFL, January 27-28, 2020, Lausanne, Switzerland
 
 ## 2019
 [Distinguished Young Academics Data Scientists (DYADS) eScience Institute Seminar](https://escience.washington.edu/data-science-seminar-12/) ([video](https://youtu.be/4gKsQG9Deew)), University of Washington, Seattle, WA
