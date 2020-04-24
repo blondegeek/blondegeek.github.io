@@ -8,7 +8,7 @@
 
 ## Upcoming Travel and Talks
 
-* Sending well wishes and health to you in your loved ones.
+* Sending well wishes to you and your loved ones during these difficult times.
 
 ## Code
 * ### [e3nn_tutorial: Tutorial on Euclidean symmetry equivariant neural networks](https://blondegeek.github.io/e3nn_tutorial/)
