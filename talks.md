@@ -1,7 +1,7 @@
 # Talks
 
 ## 2020
-[REMOTE] [1st Workshop on Scientific-Driven Deep Learning (SciDL)](https://scidl.netlify.app/), July 1, 2020
+[REMOTE] [1st Workshop on Scientific-Driven Deep Learning (SciDL)](https://scidl.netlify.app/) ([video](https://www.youtube.com/watch?v=ZbhBV0QThbA&feature=youtu.be)), July 1, 2020
 
 [REMOTE] [Applied Artificial Intelligence Initiative Seminar](https://aaii.ucsc.edu/aaii-seminars/), UC Santa Cruz, April 8, 2020, Santa Cruz, CA
 
