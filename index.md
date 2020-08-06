@@ -20,7 +20,16 @@ This tutorial uses a combination of slides and interactive jupyter notebooks usi
 * ### [`e3nn`: A framework for Euclidean symmetry equivariant neural networks](https://github.com/e3nn/e3nn)
 Convolutional neural networks for point clouds and voxels with Euclidean symmetries (3D translation and 3D rotation). The current code is a merger of the work from [Tensor field networks](https://arxiv.org/abs/1802.08219) and [3D Steerable CNNs](https://arxiv.org/abs/1807.02547).
 
-## Recent publications
+## Recent pre-prints and publications
+* ### [Finding Symmetry Breaking Order Parameters with Euclidean Neural Networks](https://arxiv.org/abs/2007.02005)
+Tess E. Smidt, Mario Geiger, and Benjamin Kurt Miller ([arXiv:2007.02005](https://arxiv.org/abs/2007.02005))
+<br>
+<br>
+code: ([notebook](https://github.com/blondegeek/e3nn_tutorial/blob/master/simple_tasks_and_symmetry.ipynb) / [html](https://blondegeek.github.io/e3nn_tutorial/simple_tasks_and_symmetry.html))
+
+* ### [Anisotropic 2D Excitons Unveiled in Organic-Inorganic Quantum Wells](https://pubs.rsc.org/en/content/articlelanding/2020/mh/c9mh01917k)
+Maserati, L. et al, Materials Horizons, 2020, DOI: 10.1039/C9MH01917K
+
 * ### [An Automatically Curated First-Principles Database of Ferroelectrics](https://doi.org/10.1038/s41597-020-0407-9) 
 [Smidt, T.E., Mack, S.A., Reyes-Lillo, S.E. et al. Sci Data 7, 72 (2020).](https://www.nature.com/articles/s41597-020-0407-9#citeas)
 <br>
