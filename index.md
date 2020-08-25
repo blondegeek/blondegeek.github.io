@@ -21,6 +21,9 @@ This tutorial uses a combination of slides and interactive jupyter notebooks usi
 Convolutional neural networks for point clouds and voxels with Euclidean symmetries (3D translation and 3D rotation). The current code is a merger of the work from [Tensor field networks](https://arxiv.org/abs/1802.08219) and [3D Steerable CNNs](https://arxiv.org/abs/1807.02547).
 
 ## Recent pre-prints and publications
+* ### [Relevance of Rotationally Equivariant Convolutions for Predicting Molecular Properties](https://arxiv.org/abs/2008.08461)
+Benjamin Kurt Miller, Mario Geiger, Tess E. Smidt, Frank Noé ([arXiv:2008:08461](https://arxiv.org/abs/2008.08461))
+
 * ### [Finding Symmetry Breaking Order Parameters with Euclidean Neural Networks](https://arxiv.org/abs/2007.02005)
 Tess E. Smidt, Mario Geiger, and Benjamin Kurt Miller ([arXiv:2007.02005](https://arxiv.org/abs/2007.02005))
 <br>
