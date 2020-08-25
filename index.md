@@ -8,8 +8,8 @@
 
 ## Upcoming <s>Travel and</s> (Remote) Talks
 
-* [AI/ML for ALS Synchrotron Science Innovation forum](https://sites.google.com/lbl.gov/aiml-for-als-research-if/home), Berkeley Lab, August 11, 2020.
 * Lecture for the [Berkeley Lab Deep Learning School](https://dl4sci-school.lbl.gov/agenda), Berkeley Lab, September 3, 2020.
+* [Workshop on Equivariance and Data Augmentation](https://sites.google.com/view/equiv-data-aug/home), University of Pennsylvania, September 4, 2020.
 * Seminar at FHI Berlin, September 23, 2020.
 * Keynote for [Applied Computational Sciences symposium (ACOS)](https://www.nwo.nl/en/news-and-events/events/acos), October 28, 2020.
 

@@ -1,6 +1,8 @@
 # Talks
 
 ## 2020
+[REMOTE] [AI/ML for ALS Synchrotron Science Innovation forum](https://sites.google.com/lbl.gov/aiml-for-als-research-if/home), Berkeley Lab, August 11, 2020.
+
 [REMOTE] [1st Workshop on Scientific-Driven Deep Learning (SciDL)](https://scidl.netlify.app/) ([video](https://www.youtube.com/watch?v=ZbhBV0QThbA&feature=youtu.be)), July 1, 2020
 
 [REMOTE] [Applied Artificial Intelligence Initiative Seminar](https://aaii.ucsc.edu/aaii-seminars/), UC Santa Cruz, April 8, 2020, Santa Cruz, CA
