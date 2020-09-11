@@ -7,9 +7,6 @@
 ## [Mischief](/mischief)
 
 ## Upcoming <s>Travel and</s> (Remote) Talks
-
-* Lecture for the [Berkeley Lab Deep Learning School](https://dl4sci-school.lbl.gov/agenda), Berkeley Lab, September 3, 2020.
-* [Workshop on Equivariance and Data Augmentation](https://sites.google.com/view/equiv-data-aug/home), University of Pennsylvania, September 4, 2020.
 * Seminar at FHI Berlin, September 23, 2020.
 * Keynote for [Applied Computational Sciences symposium (ACOS)](https://www.nwo.nl/en/news-and-events/events/acos), October 28, 2020.
 
@@ -21,17 +18,20 @@ This tutorial uses a combination of slides and interactive jupyter notebooks usi
 Convolutional neural networks for point clouds and voxels with Euclidean symmetries (3D translation and 3D rotation). The current code is a merger of the work from [Tensor field networks](https://arxiv.org/abs/1802.08219) and [3D Steerable CNNs](https://arxiv.org/abs/1807.02547).
 
 ## Recent pre-prints and publications
+* ### [Euclidean Symmetry and Equivariance in Machine Learning](https://doi.org/10.26434/chemrxiv.12935198.v1)
+Tess E. Smidt, ChemRxiv (2020). DOI:10.26434/chemrxiv.12935198
+
 * ### [Relevance of Rotationally Equivariant Convolutions for Predicting Molecular Properties](https://arxiv.org/abs/2008.08461)
-Benjamin Kurt Miller, Mario Geiger, Tess E. Smidt, Frank Noé ([arXiv:2008:08461](https://arxiv.org/abs/2008.08461))
+Benjamin Kurt Miller, Mario Geiger, Tess E. Smidt, Frank Noé, arXiv (2020). [arXiv:2008.08461](https://arxiv.org/abs/2008.08461)
 
 * ### [Finding Symmetry Breaking Order Parameters with Euclidean Neural Networks](https://arxiv.org/abs/2007.02005)
-Tess E. Smidt, Mario Geiger, and Benjamin Kurt Miller ([arXiv:2007.02005](https://arxiv.org/abs/2007.02005))
+Tess E. Smidt, Mario Geiger, and Benjamin Kurt Miller, arXiv (2020). [arXiv:2007.02005](https://arxiv.org/abs/2007.02005)
 <br>
 <br>
 code: ([notebook](https://github.com/blondegeek/e3nn_tutorial/blob/master/simple_tasks_and_symmetry.ipynb) / [html](https://blondegeek.github.io/e3nn_tutorial/simple_tasks_and_symmetry.html))
 
 * ### [Anisotropic 2D Excitons Unveiled in Organic-Inorganic Quantum Wells](https://pubs.rsc.org/en/content/articlelanding/2020/mh/c9mh01917k)
-Maserati, L. et al, Materials Horizons, 2020, DOI: 10.1039/C9MH01917K
+Maserati, L. et al, Materials Horizons (2020). DOI:10.1039/C9MH01917K
 
 * ### [An Automatically Curated First-Principles Database of Ferroelectrics](https://doi.org/10.1038/s41597-020-0407-9) 
 [Smidt, T.E., Mack, S.A., Reyes-Lillo, S.E. et al. Sci Data 7, 72 (2020).](https://www.nature.com/articles/s41597-020-0407-9#citeas)
