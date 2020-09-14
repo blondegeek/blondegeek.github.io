@@ -18,8 +18,12 @@ This tutorial uses a combination of slides and interactive jupyter notebooks usi
 Convolutional neural networks for point clouds and voxels with Euclidean symmetries (3D translation and 3D rotation). The current code is a merger of the work from [Tensor field networks](https://arxiv.org/abs/1802.08219) and [3D Steerable CNNs](https://arxiv.org/abs/1807.02547).
 
 ## Recent pre-prints and publications
+
+* ### [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
+Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li, arXiv (2020). [arXiv:2009.05163](https://arxiv.org/abs/2009.05163)
+
 * ### [Euclidean Symmetry and Equivariance in Machine Learning](https://doi.org/10.26434/chemrxiv.12935198.v1)
-Tess E. Smidt, ChemRxiv (2020). DOI:10.26434/chemrxiv.12935198
+Tess E. Smidt, ChemRxiv (2020). [DOI:10.26434/chemrxiv.12935198](https://doi.org/10.26434/chemrxiv.12935198.v1)
 
 * ### [Relevance of Rotationally Equivariant Convolutions for Predicting Molecular Properties](https://arxiv.org/abs/2008.08461)
 Benjamin Kurt Miller, Mario Geiger, Tess E. Smidt, Frank Noé, arXiv (2020). [arXiv:2008.08461](https://arxiv.org/abs/2008.08461)
