@@ -7,7 +7,6 @@
 ## [Mischief](/mischief)
 
 ## Upcoming <s>Travel and</s> (Remote) Talks
-* Seminar at FHI Berlin, September 23, 2020.
 * Keynote for [Applied Computational Sciences symposium (ACOS)](https://www.nwo.nl/en/news-and-events/events/acos), October 28, 2020.
 
 ## Code
