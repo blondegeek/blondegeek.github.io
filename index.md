@@ -9,8 +9,8 @@
 ## Upcoming <s>Travel and</s> (Remote) Talks
 * Seminar on Euclidean Neural Networks for [Physics ∩ ML](http://www.physicsmeetsml.org/), November 18, 2020.
 * Tutorial on `e3nn` for the [Scientific Machine Learning Mini-Course](https://www.cmu.edu/aced/sciML.html) hosted by CMU, November 5, 2020.
-* Poster at [UC Southern Hub: Frontiers in Machine Learing for the Physical Sciences](https://sites.research.uci.edu/frontiers-machine-learning/), October 26, 2020
 * Keynote for [Applied Computational Sciences symposium (ACOS)](https://www.nwo.nl/en/news-and-events/events/acos), October 28, 2020.
+* Poster at [UC Southern Hub: Frontiers in Machine Learing for the Physical Sciences](https://sites.research.uci.edu/frontiers-machine-learning/), October 26, 2020
 * Lightning Talk on [`e3nn`](https://github.com/e3nn/e3nn) at the [New York Scientific Data Summit](https://www.bnl.gov/nysds20/), October 20-23, 2020.
 
 ## Code
