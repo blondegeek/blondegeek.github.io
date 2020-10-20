@@ -1,12 +1,6 @@
 ## [Atomic architect.](https://cs.lbl.gov/news-media/news/2018/tess-smidt-atomic-architect-and-2018-luis-alvarez-fellow/) Wrangler of neural nets. Geometry junkie. blondegeek.
 
-## [Resume / CV](/resume)
-
-## [Past Talks](/talks)
-
-## [Mischief](/mischief)
-
-## Upcoming <s>Travel and</s> (Remote) Talks
+## Upcoming <s>Travel and</s> (Remote) Talks {#talks}
 * Lightning Talk on [`e3nn`](https://github.com/e3nn/e3nn) at the [New York Scientific Data Summit](https://www.bnl.gov/nysds20/), October 20-23, 2020.
 * Panelist on Architecture Design at [The Analytical Foundations of Deep Learning](https://c3dti.ai/events/workshops/foundations-of-deep-learning/) Workshop hosted by [CDTI](https://c3dti.ai/) and UC Berkeley, October 23, 2020. 
 * Poster at [UC Southern Hub: Frontiers in Machine Learing for the Physical Sciences](https://sites.research.uci.edu/frontiers-machine-learning/), October 26, 2020
@@ -15,14 +9,14 @@
 * Lecture + Tutorial on `e3nn` for the [Machine learning in Physics, Chemistry and Materials discussion group (MLDG)](http://talks.cam.ac.uk/show/index/107488) at the University of Cambridge, November 9, 2020.
 * Seminar on Euclidean Neural Networks for [Physics ∩ ML](http://www.physicsmeetsml.org/), November 18, 2020.
 
-## Code
+## Code {#code}
 * ### [e3nn_tutorial: Tutorial on Euclidean symmetry equivariant neural networks](https://blondegeek.github.io/e3nn_tutorial/)
 This tutorial uses a combination of slides and interactive jupyter notebooks using the `e3nn` framework to present fundamental concepts about Euclidean equivariant neural networks: data types, equivariant operations, how symmetry effects simple tasks, and how to construct the building blocks of `e3nn`. This tutorial was originally presented at IPAM at UCLA on November 14, 2019. 
 
 * ### [`e3nn`: A framework for Euclidean symmetry equivariant neural networks](https://github.com/e3nn/e3nn)
 Convolutional neural networks for point clouds and voxels with Euclidean symmetries (3D translation and 3D rotation). The current code is a merger of the work from [Tensor field networks](https://arxiv.org/abs/1802.08219) and [3D Steerable CNNs](https://arxiv.org/abs/1807.02547).
 
-## Recent pre-prints and publications
+## Recent pre-prints and publications {#papers}
 
 * ### [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
 Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li, arXiv (2020). [arXiv:2009.05163](https://arxiv.org/abs/2009.05163)

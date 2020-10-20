@@ -1,4 +1,5 @@
-# Talks
+# Previous Talks 
+(including videos and slides)
 
 ## 2020
 [REMOTE] What you get for free with Euclidean Neural Networks, Seminar at FHI Berlin ([slides](https://docs.google.com/presentation/d/1zxT2mKr_Q0RVAPuezE8e-2njD8BLe57HRmsiStB1Ol8/edit?usp=sharing)), September 23, 2020.

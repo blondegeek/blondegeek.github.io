@@ -1,8 +1,8 @@
 # Mischief
 
 ### [Bunnies](https://www.instagram.com/physicsbuns/)
-* I am close collaborators with two black tortoiseshell [lionhead rabbits](https://en.wikipedia.org/wiki/Lionhead_rabbit) named after two of my favorite physicists [Mildred Dresselhaus](https://en.wikipedia.org/wiki/Mildred_Dresselhaus) and [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether). They frequently provide helpful discussions pertaining to symmetry and the tensor calculus of fluff fields.
-* We call them Millie and Emmy for short. They like hay, bananas, carrot tops, and not carrots.
+* I am a close collaborator of two black tortoiseshell [lionhead rabbits](https://en.wikipedia.org/wiki/Lionhead_rabbit) named after two of my favorite physicists [Mildred Dresselhaus](https://en.wikipedia.org/wiki/Mildred_Dresselhaus) and [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether). They frequently provide helpful discussions pertaining to symmetry and the tensor calculus of fluff fields.
+* We call them Millie and Emmy for short. They like hay, bananas, carrot tops, parsley, and basil.
 * [@physicsbuns on Instagram](https://www.instagram.com/physicsbuns/)
 
 ### Carpentry and Sewing
