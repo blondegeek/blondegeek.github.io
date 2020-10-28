@@ -2,6 +2,12 @@
 (including videos and slides)
 
 ## 2020
+[REMOTE] [Poster](https://tinyurl.com/e3nn-poster) at [UC Southern Hub: Frontiers in Machine Learing for the Physical Sciences](https://sites.research.uci.edu/frontiers-machine-learning/), October 26, 2020
+
+[REMOTE] Panelist ([talk](https://youtu.be/CIp1f77Y0nk?t=1095) / [discussion](https://youtu.be/CIp1f77Y0nk?t=3810)) on Architecture Design at [The Analytical Foundations of Deep Learning](https://c3dti.ai/events/workshops/foundations-of-deep-learning/) Workshop hosted by [CDTI](https://c3dti.ai/) and UC Berkeley, October 23, 2020. 
+
+[REMOTE] [Lightning Talk](https://tinyurl.com/e3nn-lightning-talk) on [`e3nn`](https://github.com/e3nn/e3nn) at the [New York Scientific Data Summit](https://www.bnl.gov/nysds20/), October 20-23, 2020.
+
 [REMOTE] What you get for free with Euclidean Neural Networks, Seminar at FHI Berlin ([slides](https://docs.google.com/presentation/d/1zxT2mKr_Q0RVAPuezE8e-2njD8BLe57HRmsiStB1Ol8/edit?usp=sharing)), September 23, 2020.
 
 [REMOTE] Unintended Features of E(3)NNs, [Workshop on Equivariance and Data Augmentation](https://sites.google.com/view/equiv-data-aug/home) ([video](https://www.youtube.com/watch?v=vq4s8Xgsmeo&ab_channel=WorkshoponEquivarianceandDataAugmentation) // [slides](https://docs.google.com/presentation/d/1vOOPUC0ZiPye8R3dyrXil21IOqXExTO62-Qktm-sSv4/edit?usp=sharing)), University of Pennsylvania, September 4, 2020.
