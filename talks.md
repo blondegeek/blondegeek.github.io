@@ -2,6 +2,8 @@
 (including videos and slides)
 
 ## 2020
+[REMOTE] Keynote ([slides](https://tinyurl.com/acos-e3nn)) for [Applied Computational Sciences symposium (ACOS)](https://www.nwo.nl/en/news-and-events/events/acos), October 28, 2020.
+
 [REMOTE] [Poster](https://tinyurl.com/e3nn-poster) at [UC Southern Hub: Frontiers in Machine Learing for the Physical Sciences](https://sites.research.uci.edu/frontiers-machine-learning/), October 26, 2020
 
 [REMOTE] Panelist ([talk](https://youtu.be/CIp1f77Y0nk?t=1095) / [discussion](https://youtu.be/CIp1f77Y0nk?t=3810)) on Architecture Design at [The Analytical Foundations of Deep Learning](https://c3dti.ai/events/workshops/foundations-of-deep-learning/) Workshop hosted by [CDTI](https://c3dti.ai/) and UC Berkeley, October 23, 2020. 
