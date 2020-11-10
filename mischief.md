@@ -1,5 +1,8 @@
 # Mischief
 
+### [Modeling Matter(s)](http://modelingmatters.com)
+I host a podcast that showcases early career researchers and the mental models they use to investigate the world around us.
+
 ### [Bunnies](https://www.instagram.com/physicsbuns/)
 * I am a close collaborator of two black tortoiseshell [lionhead rabbits](https://en.wikipedia.org/wiki/Lionhead_rabbit) named after two of my favorite physicists [Mildred Dresselhaus](https://en.wikipedia.org/wiki/Mildred_Dresselhaus) and [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether). They frequently provide helpful discussions pertaining to symmetry and the tensor calculus of fluff fields.
 * We call them Millie and Emmy for short. They like hay, bananas, carrot tops, parsley, and basil.
