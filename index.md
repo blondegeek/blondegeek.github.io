@@ -1,8 +1,6 @@
 ## [Atomic architect.](https://cs.lbl.gov/news-media/news/2018/tess-smidt-atomic-architect-and-2018-luis-alvarez-fellow/) Wrangler of neural nets. Geometry junkie. blondegeek.
 
 ## Upcoming <s>Travel and</s> (Remote) Talks {#talks}
-* Tutorial on `e3nn` for the [Scientific Machine Learning Mini-Course](https://www.cmu.edu/aced/sciML.html) hosted by CMU, November 5, 2020.
-* Lecture + Tutorial on `e3nn` for the [Machine learning in Physics, Chemistry and Materials discussion group (MLDG)](http://talks.cam.ac.uk/show/index/107488) at the University of Cambridge, November 9, 2020.
 * Seminar on Euclidean Neural Networks for [Physics ∩ ML](http://www.physicsmeetsml.org/), November 18, 2020.
 
 ## Code {#code}
