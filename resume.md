@@ -1,3 +1,5 @@
+### [Home](/index) |  [Code](/index#code) | [Papers](/index#papers) | [CV](/resume) | [Past Talks](/talks) | [Mischief](/mischief)
+
 # Tess Eleonora Smidt
 
 ## [Full CV](pdfs/TessSmidt_CV_202010.pdf)

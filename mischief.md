@@ -1,3 +1,5 @@
+### [Home](/index) |  [Code](/index#code) | [Papers](/index#papers) | [CV](/resume) | [Past Talks](/talks) | [Mischief](/mischief)
+
 # Mischief
 
 ### [Modeling Matter(s)](http://modelingmatters.com) {#modeling}

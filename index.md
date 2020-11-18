@@ -1,9 +1,14 @@
+### [Home](/index) |  [Code](#code) | [Papers](#papers) | [CV](/resume) | [Past Talks](/talks) | [Mischief](/mischief)
+
 ## [Atomic architect.](https://cs.lbl.gov/news-media/news/2018/tess-smidt-atomic-architect-and-2018-luis-alvarez-fellow/) Wrangler of neural nets. Geometry junkie. blondegeek.
 
-## Upcoming <s>Travel and</s> (Remote) Talks {#talks}
-* Seminar on Euclidean Neural Networks for [Physics ∩ ML](http://www.physicsmeetsml.org/), November 18, 2020.
 
-## Code {#code}
+## Upcoming <s>Travel and</s> (Remote) Talks {#talks}
+
+* Hope you have happy and safe holidays.
+
+## Code {#code} 
+[back to top](/index)
 * ### [e3nn_tutorial: Tutorial on Euclidean symmetry equivariant neural networks](https://blondegeek.github.io/e3nn_tutorial/)
 This tutorial uses a combination of slides and interactive jupyter notebooks using the `e3nn` framework to present fundamental concepts about Euclidean equivariant neural networks: data types, equivariant operations, how symmetry effects simple tasks, and how to construct the building blocks of `e3nn`. This tutorial was originally presented at IPAM at UCLA on November 14, 2019. 
 
@@ -11,6 +16,7 @@ This tutorial uses a combination of slides and interactive jupyter notebooks usi
 Convolutional neural networks for point clouds and voxels with Euclidean symmetries (3D translation and 3D rotation). The current code is a merger of the work from [Tensor field networks](https://arxiv.org/abs/1802.08219) and [3D Steerable CNNs](https://arxiv.org/abs/1807.02547).
 
 ## Recent pre-prints and publications {#papers}
+[back to top](/index)
 
 * ### [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
 Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li, arXiv (2020). [arXiv:2009.05163](https://arxiv.org/abs/2009.05163)

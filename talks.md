@@ -1,7 +1,15 @@
+### [Home](/index) |  [Code](/index#code) | [Papers](/index#papers) | [CV](/resume) | [Past Talks](/talks) | [Mischief](/mischief)
+
 # Previous Talks 
 (including videos and slides)
 
 ## 2020
+[REMOTE] Seminar on Euclidean Neural Networks for [Physics ∩ ML](http://www.physicsmeetsml.org/), November 18, 2020. ([slides](https://tinyurl.com/e3nn-physics-meets-ml))
+
+[REMOTE] Lecture + Tutorial on `e3nn` for the [Machine learning in Physics, Chemistry and Materials discussion group (MLDG)](http://talks.cam.ac.uk/show/index/107488) at the University of Cambridge, November 9, 2020.
+
+[REMOTE] Tutorial on `e3nn` for the [Scientific Machine Learning Mini-Course](https://www.cmu.edu/aced/sciML.html) hosted by CMU, November 5, 2020.
+
 [REMOTE] Keynote ([slides](https://tinyurl.com/acos-e3nn)) for [Applied Computational Sciences symposium (ACOS)](https://www.nwo.nl/en/news-and-events/events/acos), October 28, 2020.
 
 [REMOTE] [Poster](https://tinyurl.com/e3nn-poster) at [UC Southern Hub: Frontiers in Machine Learing for the Physical Sciences](https://sites.research.uci.edu/frontiers-machine-learning/), October 26, 2020
