@@ -4,7 +4,7 @@
 (including videos and slides)
 
 ## 2020
-[REMOTE] Seminar on Euclidean Neural Networks for [Physics ∩ ML](http://www.physicsmeetsml.org/), November 18, 2020. ([slides](https://tinyurl.com/e3nn-physics-meets-ml))
+[REMOTE] Seminar on Euclidean Neural Networks for [Physics ∩ ML](http://www.physicsmeetsml.org/), November 18, 2020. ([slides](https://tinyurl.com/e3nn-physics-meets-ml) // [video](https://www.youtube.com/watch?v=VN2biLjqJXc&ab_channel=PhysicsMeetsML))
 
 [REMOTE] Lecture + Tutorial on `e3nn` for the [Machine learning in Physics, Chemistry and Materials discussion group (MLDG)](http://talks.cam.ac.uk/show/index/107488) at the University of Cambridge, November 9, 2020.
 
