@@ -23,6 +23,7 @@ Simon Batzner, Tess E. Smidt, Lixin Sun, Jonathan P. Mailoa, Mordechai Kornbluth
 
 * ### [Finding Symmetry Breaking Order Parameters with Euclidean Neural Networks](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.L012002)
 Tess E. Smidt, Mario Geiger, and Benjamin Kurt Miller, Physical Review Research (2021). [arXiv:2007.02005](https://arxiv.org/abs/2007.02005)
+<br>
 [accompanying code repository](https://github.com/blondegeek/e3nn_symm_breaking)
 
 * ### [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
