@@ -18,20 +18,23 @@ Convolutional neural networks for point clouds and voxels with Euclidean symmetr
 ## Recent pre-prints and publications {#papers}
 [back to top](/index)
 
+* ### [SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials](https://arxiv.org/abs/2101.03164)
+Simon Batzner, Tess E. Smidt, Lixin Sun, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Boris Kozinsky, arXiv (2021). (arXiv:2101.03164)[https://arxiv.org/abs/2101.03164]
+
+* ### [Finding Symmetry Breaking Order Parameters with Euclidean Neural Networks](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.L012002)
+Tess E. Smidt, Mario Geiger, and Benjamin Kurt Miller, Physical Review Research (2021). [arXiv:2007.02005](https://arxiv.org/abs/2007.02005)
+<br>
+<br>
+[code](https://github.com/blondegeek/e3nn_symm_breaking)
+
 * ### [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
 Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li, arXiv (2020). [arXiv:2009.05163](https://arxiv.org/abs/2009.05163)
 
 * ### [Euclidean Symmetry and Equivariance in Machine Learning](https://doi.org/10.26434/chemrxiv.12935198.v1)
-Tess E. Smidt, ChemRxiv (2020). [DOI:10.26434/chemrxiv.12935198](https://doi.org/10.26434/chemrxiv.12935198.v1)
+Tess E. Smidt, Trends in Chemistry (2020). [DOI:10.26434/chemrxiv.12935198](https://doi.org/10.26434/chemrxiv.12935198.v1)
 
 * ### [Relevance of Rotationally Equivariant Convolutions for Predicting Molecular Properties](https://arxiv.org/abs/2008.08461)
 Benjamin Kurt Miller, Mario Geiger, Tess E. Smidt, Frank Noé, arXiv (2020). [arXiv:2008.08461](https://arxiv.org/abs/2008.08461)
-
-* ### [Finding Symmetry Breaking Order Parameters with Euclidean Neural Networks](https://arxiv.org/abs/2007.02005)
-Tess E. Smidt, Mario Geiger, and Benjamin Kurt Miller, arXiv (2020). [arXiv:2007.02005](https://arxiv.org/abs/2007.02005)
-<br>
-<br>
-code: ([notebook](https://github.com/blondegeek/e3nn_tutorial/blob/master/simple_tasks_and_symmetry.ipynb) / [html](https://blondegeek.github.io/e3nn_tutorial/simple_tasks_and_symmetry.html))
 
 * ### [Anisotropic 2D Excitons Unveiled in Organic-Inorganic Quantum Wells](https://pubs.rsc.org/en/content/articlelanding/2020/mh/c9mh01917k)
 Maserati, L. et al, Materials Horizons (2020). DOI:10.1039/C9MH01917K
