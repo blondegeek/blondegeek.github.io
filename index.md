@@ -19,13 +19,11 @@ Convolutional neural networks for point clouds and voxels with Euclidean symmetr
 [back to top](/index)
 
 * ### [SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials](https://arxiv.org/abs/2101.03164)
-Simon Batzner, Tess E. Smidt, Lixin Sun, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Boris Kozinsky, arXiv (2021). (arXiv:2101.03164)[https://arxiv.org/abs/2101.03164]
+Simon Batzner, Tess E. Smidt, Lixin Sun, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Boris Kozinsky, arXiv (2021). [arXiv:2101.03164](https://arxiv.org/abs/2101.03164)
 
 * ### [Finding Symmetry Breaking Order Parameters with Euclidean Neural Networks](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.L012002)
 Tess E. Smidt, Mario Geiger, and Benjamin Kurt Miller, Physical Review Research (2021). [arXiv:2007.02005](https://arxiv.org/abs/2007.02005)
-<br>
-<br>
-[code](https://github.com/blondegeek/e3nn_symm_breaking)
+[accompanying code repository](https://github.com/blondegeek/e3nn_symm_breaking)
 
 * ### [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
 Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li, arXiv (2020). [arXiv:2009.05163](https://arxiv.org/abs/2009.05163)
