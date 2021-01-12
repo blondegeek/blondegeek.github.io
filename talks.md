@@ -22,7 +22,7 @@
 
 [REMOTE] Unintended Features of E(3)NNs, [Workshop on Equivariance and Data Augmentation](https://sites.google.com/view/equiv-data-aug/home) ([video](https://www.youtube.com/watch?v=vq4s8Xgsmeo&ab_channel=WorkshoponEquivarianceandDataAugmentation) // [slides](https://docs.google.com/presentation/d/1vOOPUC0ZiPye8R3dyrXil21IOqXExTO62-Qktm-sSv4/edit?usp=sharing)), University of Pennsylvania, September 4, 2020.
 
-[REMOTE] Lecture on Symmetry and Equivariance in ML, [Berkeley Lab Deep Learning School](https://dl4sci-school.lbl.gov/agenda) ([video](https://www.youtube.com/watch?v=8s0Ka6Y_kIM&t=3799s&ab_channel=NERSC) // [slides](https://docs.google.com/presentation/d/1Acz3YxUI-pH80n4UOeHWktnnpjslsTXkilmP5ZGBNo4/edit?usp=sharing)), Berkeley Lab, September 3, 2020.
+[REMOTE] Lecture on Symmetry and Equivariance in ML, [Berkeley Lab Deep Learning School](https://dl4sci-school.lbl.gov/agenda) ([video](https://www.youtube.com/watch?v=8s0Ka6Y_kIM&ab_channel=NERSC) // [slides](https://docs.google.com/presentation/d/1Acz3YxUI-pH80n4UOeHWktnnpjslsTXkilmP5ZGBNo4/edit?usp=sharing)), Berkeley Lab, September 3, 2020.
 
 [REMOTE] [AI/ML for ALS Synchrotron Science Innovation forum](https://sites.google.com/lbl.gov/aiml-for-als-research-if/home) ([slides](https://docs.google.com/presentation/d/1zyqDT7o5lWm4cmdlbBBqBBKQUwFx7KeL6DwZRBY6i2I/edit?usp=sharing)), Berkeley Lab, August 11, 2020.
 
