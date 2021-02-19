@@ -18,6 +18,12 @@ Convolutional neural networks for point clouds and voxels with Euclidean symmetr
 ## Recent pre-prints and publications {#papers}
 [back to top](/index)
 
+* [Machine Learning on Neutron and X-ray Scattering](https://arxiv.org/abs/2102.03024)
+Zhantao Chen, Nina Andrejevic, Nathan Drucker, Thanh Nguyen, R Patrick Xian, Tess Smidt, Yao Wang, Ralph Ernstorfer, Alan Tennant, Maria Chan, Mingda Li, arXiv (2021). [arXiv:2102.03024](https://arxiv.org/abs/2102.03024)
+
+* ### [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
+Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li, Accepted to Advanced Science (2021). [arXiv:2009.05163](https://arxiv.org/abs/2009.05163)
+
 * ### [SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials](https://arxiv.org/abs/2101.03164)
 Simon Batzner, Tess E. Smidt, Lixin Sun, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Boris Kozinsky, arXiv (2021). [arXiv:2101.03164](https://arxiv.org/abs/2101.03164)
 
@@ -26,11 +32,8 @@ Tess E. Smidt, Mario Geiger, and Benjamin Kurt Miller, Physical Review Research 
 <br>
 [accompanying code repository](https://github.com/blondegeek/e3nn_symm_breaking)
 
-* ### [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
-Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li, arXiv (2020). [arXiv:2009.05163](https://arxiv.org/abs/2009.05163)
-
-* ### [Euclidean Symmetry and Equivariance in Machine Learning](https://doi.org/10.26434/chemrxiv.12935198.v1)
-Tess E. Smidt, Trends in Chemistry (2020). [DOI:10.26434/chemrxiv.12935198](https://doi.org/10.26434/chemrxiv.12935198.v1)
+* ### [Euclidean Symmetry and Equivariance in Machine Learning](https://www.sciencedirect.com/science/article/pii/S2589597420302641)
+Tess E. Smidt, Trends in Chemistry (2021). [DOI:10.1016/j.trechm.2020.10.006](https://doi.org/10.1016/j.trechm.2020.10.006) [chemrxiv.12935198](https://doi.org/10.26434/chemrxiv.12935198.v1)
 
 * ### [Relevance of Rotationally Equivariant Convolutions for Predicting Molecular Properties](https://arxiv.org/abs/2008.08461)
 Benjamin Kurt Miller, Mario Geiger, Tess E. Smidt, Frank Noé, arXiv (2020). [arXiv:2008.08461](https://arxiv.org/abs/2008.08461)
