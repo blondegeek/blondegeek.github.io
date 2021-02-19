@@ -18,7 +18,7 @@ Convolutional neural networks for point clouds and voxels with Euclidean symmetr
 ## Recent pre-prints and publications {#papers}
 [back to top](/index)
 
-* [Machine Learning on Neutron and X-ray Scattering](https://arxiv.org/abs/2102.03024)
+* ### [Machine Learning on Neutron and X-ray Scattering](https://arxiv.org/abs/2102.03024)
 Zhantao Chen, Nina Andrejevic, Nathan Drucker, Thanh Nguyen, R Patrick Xian, Tess Smidt, Yao Wang, Ralph Ernstorfer, Alan Tennant, Maria Chan, Mingda Li, arXiv (2021). [arXiv:2102.03024](https://arxiv.org/abs/2102.03024)
 
 * ### [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
