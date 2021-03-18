@@ -5,8 +5,6 @@
 
 ## Upcoming <s>Travel and</s> (Remote) Talks {#talks}
 
-* [REMOTE] [MIT EECS Seminar](https://www.eecs.mit.edu/news-events/calendar/events/eecs-special-seminar-tess-smidt-neural-networks-euclidean-symmetry), February 25, 2021.
-* [REMOTE] [APS March Meeting Session - C21: Machine Learning for Quantum Matter III](http://meetings.aps.org/Meeting/MAR21/Session/C21.2), March 15, 2021.
 * [REMOTE] [Cal State Los Angeles Physics Colloqium](https://www.calstatela.edu/dept/physics/colloquia-and-events), March 25, 2021.
 * [REMOTE] [CMU AI in Physics Planning Institute Semianr](https://www.cmu.edu/ai-physics-institute/events/index.html#event=65163505;instance=20210331163000), March 31, 2021.
 
@@ -24,8 +22,8 @@ Convolutional neural networks for point clouds and voxels with Euclidean symmetr
 * ### [Machine Learning on Neutron and X-ray Scattering](https://arxiv.org/abs/2102.03024)
 Zhantao Chen, Nina Andrejevic, Nathan Drucker, Thanh Nguyen, R Patrick Xian, Tess Smidt, Yao Wang, Ralph Ernstorfer, Alan Tennant, Maria Chan, Mingda Li, arXiv (2021). [arXiv:2102.03024](https://arxiv.org/abs/2102.03024)
 
-* ### [Direct prediction of phonon density of states with Euclidean neural network](https://arxiv.org/abs/2009.05163)
-Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li, Accepted to Advanced Science (2021). [arXiv:2009.05163](https://arxiv.org/abs/2009.05163)
+* ### [Direct prediction of phonon density of states with Euclidean neural network](https://onlinelibrary.wiley.com/doi/10.1002/advs.202004214)
+Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li, [Advanced Science](https://onlinelibrary.wiley.com/doi/10.1002/advs.202004214) (2021). [arXiv:2009.05163](https://arxiv.org/abs/2009.05163)
 
 * ### [SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials](https://arxiv.org/abs/2101.03164)
 Simon Batzner, Tess E. Smidt, Lixin Sun, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Boris Kozinsky, arXiv (2021). [arXiv:2101.03164](https://arxiv.org/abs/2101.03164)

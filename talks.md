@@ -4,6 +4,9 @@
 (including videos and slides)
 
 ## 2021
+[REMOTE] [APS March Meeting Session - C21: Machine Learning for Quantum Matter III](http://meetings.aps.org/Meeting/MAR21/Session/C21.2), March 15, 2021.
+
+[REMOTE] [MIT EECS Seminar](https://www.eecs.mit.edu/news-events/calendar/events/eecs-special-seminar-tess-smidt-neural-networks-euclidean-symmetry), February 25, 2021.
 
 [REMOTE] UCB Chemical and Biomolecular Engineering Seminar, February 4, 2020
 
