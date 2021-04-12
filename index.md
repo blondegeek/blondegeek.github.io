@@ -4,9 +4,8 @@
 
 
 ## Upcoming <s>Travel and</s> (Remote) Talks {#talks}
-
-* [REMOTE] [Cal State Los Angeles Physics Colloqium](https://www.calstatela.edu/dept/physics/colloquia-and-events), March 25, 2021.
-* [REMOTE] [CMU AI in Physics Planning Institute Semianr](https://www.cmu.edu/ai-physics-institute/events/index.html#event=65163505;instance=20210331163000), March 31, 2021.
+* Guest Lecture for 3.100J, MIT, May 17, 2021, 11am ET.
+* [Midday Science Cafe](https://scienceatcal.berkeley.edu/middaycafe/), LBNL and UC Berkeley, May 20, 2021.  
 
 ## Code {#code} 
 [back to top](/index)

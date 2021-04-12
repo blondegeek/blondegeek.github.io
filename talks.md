@@ -4,6 +4,11 @@
 (including videos and slides)
 
 ## 2021
+
+[REMOTE] [CMU AI in Physics Planning Institute Semianr](https://www.cmu.edu/ai-physics-institute/events/index.html#event=65163505;instance=20210331163000), March 31, 2021.
+
+[REMOTE] [Cal State Los Angeles Physics Colloqium](https://www.calstatela.edu/dept/physics/colloquia-and-events), March 25, 2021.
+
 [REMOTE] [APS March Meeting Session - C21: Machine Learning for Quantum Matter III](http://meetings.aps.org/Meeting/MAR21/Session/C21.2), March 15, 2021.
 
 [REMOTE] [MIT EECS Seminar](https://www.eecs.mit.edu/news-events/calendar/events/eecs-special-seminar-tess-smidt-neural-networks-euclidean-symmetry), February 25, 2021.
