@@ -5,7 +5,7 @@
 
 ## 2021
 
-[REMOTE] [CMU AI in Physics Planning Institute Semianr](https://www.cmu.edu/ai-physics-institute/events/index.html#event=65163505;instance=20210331163000), March 31, 2021.
+[REMOTE] [CMU AI in Physics Planning Institute Seminar](https://www.cmu.edu/ai-physics-institute/events/index.html#event=65163505;instance=20210331163000), March 31, 2021.
 
 [REMOTE] [Cal State Los Angeles Physics Colloqium](https://www.calstatela.edu/dept/physics/colloquia-and-events), March 25, 2021.
 
