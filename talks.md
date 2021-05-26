@@ -5,6 +5,10 @@
 
 ## 2021
 
+[REMOTE] [Midday Science Cafe](https://events.berkeley.edu/index.php/calendar/sn/SciatCal.html?event_ID=139704&date=2021-05-20), LBNL and UC Berkeley, May 20, 2021. ([video](https://www.youtube.com/watch?v=zTdBKSwWE4M&ab_channel=BerkeleyLab))
+
+[REMOTE] Guest Lecture for 3.100J, MIT, May 17, 2021, 11am ET.
+
 [REMOTE] [CMU AI in Physics Planning Institute Seminar](https://www.cmu.edu/ai-physics-institute/events/index.html#event=65163505;instance=20210331163000), March 31, 2021.
 
 [REMOTE] [Cal State Los Angeles Physics Colloqium](https://www.calstatela.edu/dept/physics/colloquia-and-events), March 25, 2021.

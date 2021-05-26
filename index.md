@@ -4,8 +4,7 @@
 
 
 ## Upcoming <s>Travel and</s> (Remote) Talks {#talks}
-* Guest Lecture for 3.100J, MIT, May 17, 2021, 11am ET.
-* [Midday Science Cafe](https://events.berkeley.edu/index.php/calendar/sn/SciatCal.html?event_ID=139704&date=2021-05-20), LBNL and UC Berkeley, May 20, 2021.  
+* ...
 
 ## Code {#code} 
 [back to top](/index)
