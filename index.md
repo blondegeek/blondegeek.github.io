@@ -17,6 +17,12 @@ Convolutional neural networks for point clouds and voxels with Euclidean symmetr
 ## Recent pre-prints and publications {#papers}
 [back to top](/index)
 
+* ### [SE(3)-equivariant prediction of molecular wavefunctions and electronic densities](https://arxiv.org/abs/2106.02347)
+Oliver T. Unke, Mihail Bogojeski, Michael Gastegger, Mario Geiger, Tess Smidt, Klaus-Robert Müller (2021). [arXiv:2106.02347](https://arxiv.org/abs/2106.02347)
+
+* ### [Graph Partitioning and Sparse Matrix Ordering using Reinforcement Learning](https://arxiv.org/abs/2104.03546)
+Alice Gatti, Zhixiong Hu, Tess Smidt, Esmond G. Ng, Pieter Ghysels (2021). [arXiv:2104.03546](https://arxiv.org/abs/2104.03546)
+
 * ### [Machine Learning on Neutron and X-ray Scattering](https://arxiv.org/abs/2102.03024)
 Zhantao Chen, Nina Andrejevic, Nathan Drucker, Thanh Nguyen, R Patrick Xian, Tess Smidt, Yao Wang, Ralph Ernstorfer, Alan Tennant, Maria Chan, Mingda Li, arXiv (2021). [arXiv:2102.03024](https://arxiv.org/abs/2102.03024)
 
