@@ -2,6 +2,7 @@
 
 ## [Atomic architect.](https://cs.lbl.gov/news-media/news/2018/tess-smidt-atomic-architect-and-2018-luis-alvarez-fellow/) Wrangler of neural nets. Geometry junkie. blondegeek.
 
+### <font color="6E0E0A">I will be starting as an Assistant Professor of EECS at MIT in Fall 2021.</font>
 
 ## Upcoming <s>Travel and</s> (Remote) Talks {#talks}
 * ...
