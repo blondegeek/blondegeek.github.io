@@ -5,6 +5,8 @@
 
 ## 2021
 
+[REMOTE] Machine Learning Materials Science, ACS Fall Meeting, August 23, 2021. ([slides](https://tinyurl.com/tess-acs-2021))
+
 [REMOTE] [Midday Science Cafe](https://events.berkeley.edu/index.php/calendar/sn/SciatCal.html?event_ID=139704&date=2021-05-20), LBNL and UC Berkeley, May 20, 2021. ([video](https://www.youtube.com/watch?v=zTdBKSwWE4M&ab_channel=BerkeleyLab))
 
 [REMOTE] Guest Lecture for 3.100J, MIT, May 17, 2021, 11am ET.
