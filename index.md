@@ -5,9 +5,9 @@
 <br>
 <a href="https://www.eecs.mit.edu/">MIT Department of Electrical Engineering and Computer Science</a>
 
-<a href="http://atomicarchitects.com/"><font color="A83869">Principal Atomic Architect, Atomic Architects</font></a>
+<a href="http://atomicarchitects.com/"><font color="A83869">Principal Investigator, Atomic Architects</font></a>
 <br>
-<a href="https://www.rle.mit.edu/">Research Laboratory of Electronics</a>
+<a href="https://www.rle.mit.edu/">MIT Research Laboratory of Electronics</a>
 
 #### <font color="A83869">I am looking for postdoctoral researchers, graduate students, and undergraduate students interested in working on first-principles machine learning and its applications to the physical sciences. Please reach out to me at <a href="mailto:tsmidt@mit.edu?subject=Joining the Atomic Architects">tsmidt@mit.edu</a> with your CV if interested in joining the Atomic Architects.</font>
 
