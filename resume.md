@@ -1,5 +1,3 @@
-### [Home](/index) |  [Code](/index#code) | [Papers](/index#papers) | [CV](/resume) | [Past Talks](/talks) | [Mischief](/mischief)
-
 # Tess Eleonora Smidt
 
 ## [Full CV](pdfs/TessSmidt_CV_202010.pdf)
@@ -13,11 +11,18 @@ S.B in Physics with Minor in Architecture, <b>MIT</b> (2012)
 
 ## Research Positions
 
+* ### Assistant Professor
+<i>Department of Electrical Engineering and Computer Science, MIT</i>
+<br>
+<i>Principal Investigator, Research Laboratory of Electronics</i>
+<br>
+<b>(Fall 2021 - present)</b>
+
 * ### Luis W. Alvarez Postdoctoral Fellow in Computing Sciences
 <i>Computational Chemistry, Materials, and Climate Group
 Computational Research Division, Berkeley Lab</i>
 <br>
-<b>(Summer 2018 - Present)</b>
+<b>(Summer 2018 - Summer 2021)</b>
 
 * ### Software Engineering Intern
 <i> Google Accelerated Science </i>
