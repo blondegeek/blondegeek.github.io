@@ -1,4 +1,6 @@
-# Tess Eleonora Smidt
+# Bio and CV
+
+Tess Smidt is an Assistant Professor of Electrical Engineering and Computer Science at MIT. Tess earned her SB in Physics from MIT in 2012 and her PhD in Physics from the University of California, Berkeley in 2018. Her research focuses on machine learning that incorporates physical and geometric constraints, with applications to materials design. Prior to joining the MIT EECS faculty, she was the 2018 Alvarez Postdoctoral Fellow in Computing Sciences at Lawrence Berkeley National Laboratory and Software Engineering intern on the Google Accelerated Sciences team where she developed Euclidean symmetry equivariant neural networks which naturally handle 3D geometry and geometric tensor data.
 
 ## [Full CV](pdfs/TessSmidt_CV_202010.pdf)
 
@@ -7,7 +9,6 @@
 Ph.D. in Physics, <b>U.C. Berkeley</b> (2018)  [[Dissertation]](pdfs/TES_dissertation_small.pdf)<br>
 M.A. in Physics, <b> U.C. Berkeley</b> (2014) <br>
 S.B in Physics with Minor in Architecture, <b>MIT</b> (2012)
-
 
 ## Research Positions
 
