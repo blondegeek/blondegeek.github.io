@@ -11,6 +11,6 @@
 
 #### <font color="A83869">I am looking for postdoctoral researchers, graduate students, and undergraduate students interested in working on first-principles machine learning and its applications to the physical sciences. Please reach out to me at <a href="mailto:tsmidt@mit.edu?subject=Joining the Atomic Architects">tsmidt@mit.edu</a> with your CV if interested in joining the <a href="http://atomicarchitects.com/">Atomic Architects.</a></font>
 
-## Upcoming <s>Travel and</s> (Remote) Talks {#talks}
-* ...
+<!-- ## Upcoming <s>Travel and</s> (Remote) Talks {#talks} -->
+<!-- * ... -->
 
