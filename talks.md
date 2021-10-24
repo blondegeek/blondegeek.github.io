@@ -3,6 +3,10 @@
 
 ## 2021
 
+[REMOTE] Special Session on Theoretical and Applied perspectives in Machine Learning, AMS Fall Western Sectional Meeting, October 23, 2021.
+
+[REMOTE] Leuven.AI Seminar at KU Leuven, October 7th, 2021.
+
 [REMOTE] Machine Learning Materials Science, ACS Fall Meeting, August 23, 2021. ([slides](https://tinyurl.com/tess-acs-2021))
 
 [REMOTE] [Midday Science Cafe](https://events.berkeley.edu/index.php/calendar/sn/SciatCal.html?event_ID=139704&date=2021-05-20), LBNL and UC Berkeley, May 20, 2021. ([video](https://www.youtube.com/watch?v=zTdBKSwWE4M&ab_channel=BerkeleyLab))
