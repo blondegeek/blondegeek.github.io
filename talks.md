@@ -3,6 +3,10 @@
 
 ## 2021
 
+[REMOTE] [MIT IAIFI Internal Seminar](https://iaifi.org/events.html), November 19, 2021.
+
+[REMOTE] Hamilton Institute / MIT CINCS Seminar, November 17, 2021.
+
 [REMOTE] Special Session on Theoretical and Applied perspectives in Machine Learning, AMS Fall Western Sectional Meeting, October 23, 2021.
 
 [REMOTE] Leuven.AI Seminar at KU Leuven, October 7th, 2021.
