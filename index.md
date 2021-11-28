@@ -13,4 +13,6 @@
 
 <!-- ## Upcoming <s>Travel and</s> (Remote) Talks {#talks} -->
 <!-- * ... -->
-
+## Upcoming Travel and Talks {#talks}
+* [Tutorial for Symmetry-Aware Neural Networks for the Material Sciences](https://e3nn.org/mrs), MRS 2021 Fall Meeting, November 29, 2021 
+* [McGill University Physics Colloquium](https://www.physics.mcgill.ca/seminars/PSC.html), February 25, 2021.
