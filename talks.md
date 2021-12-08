@@ -3,6 +3,8 @@
 
 ## 2021
 
+[Tutorial for Symmetry-Aware Neural Networks for the Material Sciences](https://e3nn.org/mrs), MRS 2021 Fall Meeting, November 29, 2021.
+
 [REMOTE] [MIT IAIFI Internal Seminar](https://iaifi.org/events.html), November 19, 2021.
 
 [REMOTE] Hamilton Institute / MIT CINCS Seminar, November 17, 2021.
