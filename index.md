@@ -14,5 +14,4 @@
 <!-- ## Upcoming <s>Travel and</s> (Remote) Talks {#talks} -->
 <!-- * ... -->
 ## Upcoming Travel and Talks {#talks}
-* [REMOTE] [ELLIS Machine Learning for Molecule Discovery Workshop](https://moleculediscovery.github.io/workshop2021/), December 13, 2021.
 * [McGill University Physics Colloquium](https://www.physics.mcgill.ca/seminars/PSC.html), February 25, 2021.

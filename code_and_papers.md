@@ -11,8 +11,14 @@ Convolutional neural networks for point clouds and voxels with Euclidean symmetr
 ## Recent pre-prints and publications {#papers}
 [back to top](/code_and_papers)
 
-* ### [SE(3)-equivariant prediction of molecular wavefunctions and electronic densities](https://arxiv.org/abs/2106.02347)
-Oliver T. Unke, Mihail Bogojeski, Michael Gastegger, Mario Geiger, Tess Smidt, Klaus-Robert Müller (2021). [arXiv:2106.02347](https://arxiv.org/abs/2106.02347)
+* ### [Cracking the Quantum Scaling Limit with Machine Learned Electron Densities](https://arxiv.org/abs/2201.03726)
+Joshua A. Rackers, Lucas Tecot, Mario Geiger, Tess E. Smidt (2022). [arXiv:2201.03726](https://arxiv.org/abs/2201.03726)
+
+* ### [Deep Learning and Spectral Embedding for Graph Partitioning](https://arxiv.org/abs/2110.08614)
+Alice Gatti, Zhixiong Hu, Tess Smidt, Esmond G. Ng, Pieter Ghysels (2021). [arXiv:2110.08614](https://arxiv.org/abs/2110.08614)
+
+* ### [SE(3)-equivariant prediction of molecular wavefunctions and electronic densities](https://proceedings.neurips.cc/paper/2021/hash/78f1893678afbeaa90b1fa01b9cfb860-Abstract.html)
+Oliver T. Unke, Mihail Bogojeski, Michael Gastegger, Mario Geiger, Tess Smidt, Klaus-Robert Müller (NeurIPS 2021). [arXiv:2106.02347](https://arxiv.org/abs/2106.02347)
 
 * ### [Graph Partitioning and Sparse Matrix Ordering using Reinforcement Learning](https://arxiv.org/abs/2104.03546)
 Alice Gatti, Zhixiong Hu, Tess Smidt, Esmond G. Ng, Pieter Ghysels (2021). [arXiv:2104.03546](https://arxiv.org/abs/2104.03546)
