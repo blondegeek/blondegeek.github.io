@@ -11,6 +11,9 @@ Convolutional neural networks for point clouds and voxels with Euclidean symmetr
 ## Recent pre-prints and publications {#papers}
 [back to top](/code_and_papers)
 
+* ### [Generative Coarse-Graining of Molecular Conformations](https://arxiv.org/abs/2201.12176)
+Wujie Wang, Minkai Xu, Chen Cai, Benjamin Kurt Miller, Tess Smidt, Yusu Wang, Jian Tang, Rafael Gómez-Bombarelli (2022). [arXiv:2201.12176](https://arxiv.org/abs/2201.12176)
+
 * ### [Cracking the Quantum Scaling Limit with Machine Learned Electron Densities](https://arxiv.org/abs/2201.03726)
 Joshua A. Rackers, Lucas Tecot, Mario Geiger, Tess E. Smidt (2022). [arXiv:2201.03726](https://arxiv.org/abs/2201.03726)
 
