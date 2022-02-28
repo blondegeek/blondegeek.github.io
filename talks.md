@@ -1,6 +1,9 @@
 # Previous Talks 
 (including videos and slides)
 
+## 2022
+[McGill University Physics Colloquium](https://www.physics.mcgill.ca/seminars/PSC.html), February 25, 2021. ([video](https://www.youtube.com/watch?v=fV5_lFYPfHY))
+
 ## 2021
 [REMOTE] [ELLIS Machine Learning for Molecule Discovery Workshop](https://moleculediscovery.github.io/workshop2021/), December 13, 2021.
 

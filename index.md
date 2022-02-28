@@ -14,4 +14,4 @@
 <!-- ## Upcoming <s>Travel and</s> (Remote) Talks {#talks} -->
 <!-- * ... -->
 ## Upcoming Travel and Talks {#talks}
-* [McGill University Physics Colloquium](https://www.physics.mcgill.ca/seminars/PSC.html), February 25, 2021.
+* APS March Meeting: [Session Z43](https://meetings.aps.org/Meeting/MAR22/Session/Z43), March 18, 2022.
