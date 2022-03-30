@@ -11,6 +11,9 @@ Convolutional neural networks for point clouds and voxels with Euclidean symmetr
 ## Recent pre-prints and publications {#papers}
 [back to top](/code_and_papers)
 
+* ### [Sign and Basis Invariant Networks for Spectral Graph Representation Learning](https://arxiv.org/abs/2202.13013)
+Derek Lim, Joshua Robinson, Lingxiao Zhao, Tess Smidt, Suvrit Sra, Haggai Maron, Stefanie Jegelka (2022). [arXiv:2202.13013](https://arxiv.org/abs/2202.13013)
+
 * ### [Generative Coarse-Graining of Molecular Conformations](https://arxiv.org/abs/2201.12176)
 Wujie Wang, Minkai Xu, Chen Cai, Benjamin Kurt Miller, Tess Smidt, Yusu Wang, Jian Tang, Rafael Gómez-Bombarelli (2022). [arXiv:2201.12176](https://arxiv.org/abs/2201.12176)
 
