@@ -35,8 +35,8 @@ Zhantao Chen, Nina Andrejevic, Nathan Drucker, Thanh Nguyen, R Patrick Xian, Tes
 * ### [Direct prediction of phonon density of states with Euclidean neural network](https://onlinelibrary.wiley.com/doi/10.1002/advs.202004214)
 Zhantao Chen, Nina Andrejevic, Tess Smidt, Zhiwei Ding, Yen-Ting Chi, Quynh T. Nguyen, Ahmet Alatas, Jing Kong, Mingda Li, [Advanced Science](https://onlinelibrary.wiley.com/doi/10.1002/advs.202004214) (2021). [arXiv:2009.05163](https://arxiv.org/abs/2009.05163)
 
-* ### [SE(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials](https://arxiv.org/abs/2101.03164)
-Simon Batzner, Tess E. Smidt, Lixin Sun, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Boris Kozinsky, arXiv (2021). [arXiv:2101.03164](https://arxiv.org/abs/2101.03164)
+* ### [E(3)-Equivariant Graph Neural Networks for Data-Efficient and Accurate Interatomic Potentials](https://www.nature.com/articles/s41467-022-29939-5)
+Simon Batzner, Albert Musaelian, Lixin Sun, Mario Geiger, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Tess E. Smidt & Boris Kozinsky, Nature Communications 13, Article number: 2453 (2022). [arXiv:2101.03164](https://arxiv.org/abs/2101.03164)
 
 * ### [Finding Symmetry Breaking Order Parameters with Euclidean Neural Networks](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.L012002)
 Tess E. Smidt, Mario Geiger, and Benjamin Kurt Miller, Physical Review Research (2021). [arXiv:2007.02005](https://arxiv.org/abs/2007.02005)
