@@ -2,6 +2,8 @@
 (including videos and slides)
 
 ## 2022
+APS March Meeting: [Session Z43](https://meetings.aps.org/Meeting/MAR22/Session/Z43), March 18, 2022.
+
 [McGill University Physics Colloquium](https://www.physics.mcgill.ca/seminars/PSC.html), February 25, 2022. ([video](https://www.youtube.com/watch?v=fV5_lFYPfHY))
 
 ## 2021

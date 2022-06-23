@@ -13,5 +13,4 @@
 
 <!-- ## Upcoming <s>Travel and</s> (Remote) Talks {#talks} -->
 <!-- * ... -->
-## Upcoming Travel and Talks {#talks}
-* APS March Meeting: [Session Z43](https://meetings.aps.org/Meeting/MAR22/Session/Z43), March 18, 2022.
+<!-- ## Upcoming Travel and Talks {#talks} -->
