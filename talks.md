@@ -2,6 +2,8 @@
 (including videos and slides)
 
 ## 2022
+NSF Workshop on the [Foundations of Machine Learning and its Applications for Scientific Discovery in Physical and Biological Systems](http://physicsoflivingsystems.org/events/foundations-of-machine-learning-and-its-applications-for-scientific-discovery-in-physical-and-biological-systems-workshop/), June 24, 2022.
+
 APS March Meeting: [Session Z43](https://meetings.aps.org/Meeting/MAR22/Session/Z43), March 18, 2022.
 
 [McGill University Physics Colloquium](https://www.physics.mcgill.ca/seminars/PSC.html), February 25, 2022. ([video](https://www.youtube.com/watch?v=fV5_lFYPfHY))

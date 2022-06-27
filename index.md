@@ -13,4 +13,7 @@
 
 <!-- ## Upcoming <s>Travel and</s> (Remote) Talks {#talks} -->
 <!-- * ... -->
-<!-- ## Upcoming Travel and Talks {#talks} -->
+## Upcoming Travel and Talks {#talks}
+* [Variational Learning for Quantum Matter](https://www.mlquantum.org/), Bernoulli Workshop - EPFL, Lausanne, Switzerland, July 4-8, 2022.
+* [Swiss Equivariant Learning Workshop](https://sites.google.com/mit.edu/swiss-equivariant-learning), CO2 - EPFL, Lasanne, Switzerland, July 11-14, 2022.
+* [Barcelona Methods in Molecular Simulation and Machine Learning Workshop](https://www.mmsml.org/), Barcelona Biomedical Research Park, [CompBioMed](https://www.compbiomed.eu/), Barcelona, Spain, July 14-16, 2022.
