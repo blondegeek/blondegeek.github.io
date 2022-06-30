@@ -11,6 +11,9 @@ Convolutional neural networks for point clouds and voxels with Euclidean symmetr
 ## Recent pre-prints and publications {#papers}
 [back to top](/code_and_papers)
 
+* ### [Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs](https://arxiv.org/abs/2206.11990)
+Yi-Lun Liao, Tess Smidt (2022). [arXiv:2206.11990](https://arxiv.org/abs/2206.11990)
+
 * ### [Sign and Basis Invariant Networks for Spectral Graph Representation Learning](https://arxiv.org/abs/2202.13013)
 Derek Lim, Joshua Robinson, Lingxiao Zhao, Tess Smidt, Suvrit Sra, Haggai Maron, Stefanie Jegelka (2022). [arXiv:2202.13013](https://arxiv.org/abs/2202.13013)
 
