@@ -11,6 +11,9 @@ Convolutional neural networks for point clouds and voxels with Euclidean symmetr
 ## Recent pre-prints and publications {#papers}
 [back to top](/code_and_papers)
 
+* ###[e3nn: Euclidean Neural Networks (Living Draft)](https://arxiv.org/abs/2207.09453)
+Mario Geiger, Tess Smidt (2022). [arXiv:2207.09453](https://arxiv.org/abs/2207.09453)
+
 * ### [Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs](https://arxiv.org/abs/2206.11990)
 Yi-Lun Liao, Tess Smidt (2022). [arXiv:2206.11990](https://arxiv.org/abs/2206.11990)
 
