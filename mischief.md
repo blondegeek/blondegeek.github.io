@@ -1,19 +1,20 @@
 # Mischief
 
-### [Modeling Matter(s)](http://modelingmatters.com) {#modeling}
-I host a podcast that showcases early career researchers and the mental models they use to investigate the world around us.
-
 ### [Bunnies](https://www.instagram.com/physicsbuns/) {#bunnies}
 * I am a close collaborator of two black tortoiseshell [lionhead rabbits](https://en.wikipedia.org/wiki/Lionhead_rabbit) named after two of my favorite physicists [Mildred Dresselhaus](https://en.wikipedia.org/wiki/Mildred_Dresselhaus) and [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether). They frequently provide helpful discussions pertaining to symmetry and the tensor calculus of fluff fields.
 * We call them Millie and Emmy for short. They like hay, bananas, carrot tops, parsley, and basil.
 * [@physicsbuns on Instagram](https://www.instagram.com/physicsbuns/)
 
 ### Carpentry and Sewing
+* [Lasagna Noodle Desk Made of Maple](https://www.instructables.com/Lasagna-Noodle-Desk-Made-of-Maple/)
 * [Ladder(s)](https://www.instagram.com/p/B_V52xQnTYv/)
 * [3D Tetris Ottomans](https://www.instagram.com/p/B_V4S1MH3Td/)
 * [A Simple Box with Sliding Shelves](https://www.instagram.com/p/B_V45PtHRT2/)
 * [Edge-sharing tetrahedron pillows](https://www.instagram.com/p/B_V3SjCH8XB/)
 * [Octahedron](https://www.instagram.com/p/B_V2SRIns8N/)
+
+### [Modeling Matter(s)](http://modelingmatters.com) {#modeling}
+I host(ed) a podcast that showcases early career researchers and the mental models they use to investigate the world around us. I'd like to get back to this project once I've gotten a better handle on professoring.
 
 ### [Cosmic Ray Chandeliers](http://blondegeek.github.io/cosmicray) {#cosmic}
 The "Cosmic Ray Chandeliers" is a science-art installation located on M.I.T.'s campus on the 5th floor between buildings 16 and 26. The Chandeliers illumiate upon detecting particles, called muons, created in cosmic ray showers. 
