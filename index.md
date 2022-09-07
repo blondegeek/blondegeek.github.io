@@ -9,11 +9,11 @@
 <br>
 <a href="https://www.rle.mit.edu/">MIT Research Laboratory of Electronics</a>
 
-#### <font color="A83869">I am looking for postdoctoral researchers and undergraduate students interested in working on first-principles machine learning and its applications to the physical sciences. Please reach out to me at <a href="mailto:tsmidt@mit.edu?subject=Joining the Atomic Architects">tsmidt@mit.edu</a> with your CV if interested in joining the <a href="http://atomicarchitects.com/">Atomic Architects.</a></font>
-
 <!-- ## Upcoming <s>Travel and</s> (Remote) Talks {#talks} -->
 <!-- * ... -->
 ## Upcoming Travel and Talks {#talks}
-* [Variational Learning for Quantum Matter](https://www.mlquantum.org/), Bernoulli Workshop - EPFL, Lausanne, Switzerland, July 4-8, 2022.
-* [Swiss Equivariant Learning Workshop](https://sites.google.com/mit.edu/swiss-equivariant-learning), CO2 - EPFL, Lasanne, Switzerland, July 11-14, 2022.
-* [Barcelona Methods in Molecular Simulation and Machine Learning Workshop](https://www.mmsml.org/), Barcelona Biomedical Research Park, [CompBioMed](https://www.compbiomed.eu/), Barcelona, Spain, July 14-16, 2022.
+* [REMOTE] [Symposium on the Future of Computing Research](https://fcr-2022.net/), [Early Career Roundtable](https://fcr-2022.net/program), September 12, 2022.
+* [REMOTE] Physics-informed machine learning seminar series, Los Alamos National Laboratory, September 29, 2022.
+* [REMOTE] [Warwick Centre for Predictive Modelling seminar series](https://warwick.ac.uk/fac/sci/wcpm/seminars), University of Warwick, October 3, 2022.
+* [REMOTE] [CECAM Workshop on Charting large materials dataspaces: AI methods and scalability](https://www.cecam.org/workshop-details/1167), CECAM-FR-RA, Grenoble, France, October 10-12, 2022.
+* [REMOTE] [Boston University Materials Day](https://www.bu.edu/eng/departments/mse/news/materials-day/materials-day-2021/), October 14, 2022.

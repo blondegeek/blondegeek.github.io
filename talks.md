@@ -2,6 +2,12 @@
 (including videos and slides)
 
 ## 2022
+[Barcelona Methods in Molecular Simulation and Machine Learning Workshop](https://www.mmsml.org/), Barcelona Biomedical Research Park, [CompBioMed](https://www.compbiomed.eu/), Barcelona, Spain, July 14-16, 2022.
+
+[Swiss Equivariant Learning Workshop](https://sites.google.com/mit.edu/swiss-equivariant-learning), CO2 - EPFL, Lasanne, Switzerland, July 11-14, 2022.
+
+[Variational Learning for Quantum Matter](https://www.mlquantum.org/), Bernoulli Workshop - EPFL, Lausanne, Switzerland, July 4-8, 2022.
+
 NSF Workshop on the [Foundations of Machine Learning and its Applications for Scientific Discovery in Physical and Biological Systems](http://physicsoflivingsystems.org/events/foundations-of-machine-learning-and-its-applications-for-scientific-discovery-in-physical-and-biological-systems-workshop/), June 24, 2022.
 
 APS March Meeting: [Session Z43](https://meetings.aps.org/Meeting/MAR22/Session/Z43), March 18, 2022.
