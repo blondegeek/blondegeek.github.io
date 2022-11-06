@@ -12,8 +12,7 @@
 <!-- ## Upcoming <s>Travel and</s> (Remote) Talks {#talks} -->
 <!-- * ... -->
 ## Upcoming Travel and Talks {#talks}
-* [REMOTE] [Symposium on the Future of Computing Research](https://fcr-2022.net/), [Early Career Roundtable](https://fcr-2022.net/program), September 12, 2022.
-* [REMOTE] Physics-informed machine learning seminar series, Los Alamos National Laboratory, September 29, 2022.
-* [REMOTE] [Warwick Centre for Predictive Modelling seminar series](https://warwick.ac.uk/fac/sci/wcpm/seminars), University of Warwick, October 3, 2022.
-* [REMOTE] [CECAM Workshop on Charting large materials dataspaces: AI methods and scalability](https://www.cecam.org/workshop-details/1167), CECAM-FR-RA, Grenoble, France, October 10-12, 2022.
-* [REMOTE] [Boston University Materials Day](https://www.bu.edu/eng/departments/mse/news/materials-day/materials-day-2021/), October 14, 2022.
+* [MIT Path of Professorship Workshop](https://oge.mit.edu/student-support-development/career-planning/path-of-professorship/) -- Session: Negotiating the Offer, November 19th, 2022.
+* [REMOTE] NeurIPS AI4Science Workshop, December 2nd, 2022.
+* [REMOTE] [AI4Science Seminar](https://psolsson.github.io/AI4ScienceSeminar), Chalmers University of Technology, December 8th, 2022.
+* [AI Institute for Dynamic Systems](http://dynamicsai.org/) Seminar, University of Washington, January 6th, 2022.
