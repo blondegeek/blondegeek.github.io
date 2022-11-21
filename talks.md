@@ -2,6 +2,9 @@
 (including videos and slides)
 
 ## 2022
+
+[MIT Path of Professorship Workshop](https://oge.mit.edu/student-support-development/career-planning/path-of-professorship/) -- Session: Negotiating the Offer, November 19th, 2022.
+
 [REMOTE] [Boston University Materials Day](https://www.bu.edu/eng/departments/mse/news/materials-day/materials-day-2021/), October 14, 2022.
 
 [REMOTE] [CECAM Workshop on Charting large materials dataspaces: AI methods and scalability](https://www.cecam.org/workshop-details/1167), CECAM-FR-RA, Grenoble, France, October 10-12, 2022.
@@ -10,9 +13,9 @@
 
 [REMOTE] Physics-informed machine learning seminar series, Los Alamos National Laboratory, September 29, 2022.
 
-[REMOTE] [Symposium on the Future of Computing Research](https://fcr-2022.net/), [Early Career Roundtable](https://fcr-2022.net/program), September 12, 2022.
+[REMOTE] [Symposium on the Future of Computing Research](https://fcr-2022.net/), [Early Career Roundtable](https://fcr-2022.net/program) [(video)](https://www.youtube.com/watch?v=0r1ISrLzVnI&list=PLknXvJJeEDaLdDVaXjFl6F7yJpksgEYzT), September 12, 2022.
 
-[Barcelona Methods in Molecular Simulation and Machine Learning Workshop](https://www.mmsml.org/), Barcelona Biomedical Research Park, [CompBioMed](https://www.compbiomed.eu/), Barcelona, Spain, July 14-16, 2022.
+[Barcelona Methods in Molecular Simulation and Machine Learning Workshop](https://www.mmsml.org/) [(video)](https://www.mmsml.org/talk-recordings#h.n8n8no1x4n3w), Barcelona Biomedical Research Park, [CompBioMed](https://www.compbiomed.eu/), Barcelona, Spain, July 14-16, 2022.
 
 [Swiss Equivariant Learning Workshop](https://sites.google.com/mit.edu/swiss-equivariant-learning), CO2 - EPFL, Lasanne, Switzerland, July 11-14, 2022.
 
@@ -157,6 +160,14 @@ Beam Target Optimization for DAEdALUS [(slides)](pdfs/20120402_DAEdALUS_APS_Apri
 Building Neutrino Detectors [(slides)](pdfs/20111014_building_neutrino_detectors.pdf) -- MIT Family Weekend Physics Reception
 
 Light Detection in Liquid Argon Time Project Chambers -- Fermilab New Perspectives Conference
+
+# Media
+
+[Basics2Breakthroughs: Improving machine learnign to make big discoveries](https://www.youtube.com/watch?v=GrhHPNGuAwI&ab_channel=BerkeleyLab) - August 9, 2021.
+
+[MIT News: A streamlined approach to determining thermal properties of crystalline solids and alloys](https://news.mit.edu/2021/streamlined-approach-determining-thermal-properties-crystalline-solids-alloys-0401) - April 1, 2021.
+
+[ICIAM TV: Lawrence Berkeley National Laboratory - Computational Research Division](https://www.youtube.com/watch?v=2Zr2NpKYVek&ab_channel=WebsEdgeScience) - July 12, 2019.
 
 # Posters
 
