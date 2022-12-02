@@ -163,6 +163,8 @@ Light Detection in Liquid Argon Time Project Chambers -- Fermilab New Perspectiv
 
 # Media
 
+[The task of magnetic classification suddenly looks easier](https://news.mit.edu/2022/task-magnetic-classification-suddenly-looks-easier-1128) - November 29, 2022.
+
 [Basics2Breakthroughs: Improving machine learnign to make big discoveries](https://www.youtube.com/watch?v=GrhHPNGuAwI&ab_channel=BerkeleyLab) - August 9, 2021.
 
 [MIT News: A streamlined approach to determining thermal properties of crystalline solids and alloys](https://news.mit.edu/2021/streamlined-approach-determining-thermal-properties-crystalline-solids-alloys-0401) - April 1, 2021.
