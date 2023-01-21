@@ -1,7 +1,15 @@
 # Previous Talks 
 (including videos and slides)
 
+## 2023
+[AI Institute for Dynamic Systems](http://dynamicsai.org/) Seminar, University of Washington, January 6th, 2023.
+
 ## 2022
+[Catalyst Conversations](https://www.catalystconversations.org/), December 15, 2022.
+
+[REMOTE] [AI4Science Seminar](https://psolsson.github.io/AI4ScienceSeminar), Chalmers University of Technology, December 8th, 2022.
+
+[REMOTE] [NeurIPS AI4Science Workshop](https://ai4sciencecommunity.github.io/neurips22/schedule.html), December 2nd, 2022.
 
 [MIT Path of Professorship Workshop](https://oge.mit.edu/student-support-development/career-planning/path-of-professorship/) -- Session: Negotiating the Offer, November 19th, 2022.
 
