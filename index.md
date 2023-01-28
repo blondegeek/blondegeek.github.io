@@ -12,5 +12,4 @@
 <!-- ## Upcoming <s>Travel and</s> (Remote) Talks {#talks} -->
 <!-- * ... -->
 ## Upcoming Travel and Talks {#talks}
-* [Learning and Emergence in Molecular Systems](http://www.ipam.ucla.edu/programs/workshops/learning-and-emergence-in-molecular-systems/), IPAM at UCLA, January 23-27, 2023.
 * [REMOTE] [ML4Materials](https://www.ml4materials.com/), Workshop @ ICLR '23, Fully Virtual, Kigali Rwanda, May 4 and 5, 2023.

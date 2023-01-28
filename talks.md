@@ -2,10 +2,13 @@
 (including videos and slides)
 
 ## 2023
+
+[Learning and Emergence in Molecular Systems](http://www.ipam.ucla.edu/programs/workshops/learning-and-emergence-in-molecular-systems/), IPAM at UCLA, January 23-27, 2023. ([video](https://www.youtube.com/watch?v=Qr-k_oXTuqw)) ([slides](https://docs.google.com/presentation/d/1mQMbfOedH3tzuA4WyAHQx6SWRLvD5cQ62mb6Xtixewc/edit?usp=sharing))
+
 [AI Institute for Dynamic Systems](http://dynamicsai.org/) Seminar, University of Washington, January 6th, 2023.
 
 ## 2022
-[Catalyst Conversations](https://www.catalystconversations.org/), December 15, 2022.
+[Catalyst Conversations](https://www.catalystconversations.org/), December 15, 2022. ([video](https://www.youtube.com/watch?v=PI_GQbUVXNg))
 
 [REMOTE] [AI4Science Seminar](https://psolsson.github.io/AI4ScienceSeminar), Chalmers University of Technology, December 8th, 2022.
 
@@ -29,7 +32,7 @@
 
 [Variational Learning for Quantum Matter](https://www.mlquantum.org/), Bernoulli Workshop - EPFL, Lausanne, Switzerland, July 4-8, 2022.
 
-NSF Workshop on the [Foundations of Machine Learning and its Applications for Scientific Discovery in Physical and Biological Systems](http://physicsoflivingsystems.org/events/foundations-of-machine-learning-and-its-applications-for-scientific-discovery-in-physical-and-biological-systems-workshop/), June 24, 2022.
+NSF Workshop on the [Foundations of Machine Learning and its Applications for Scientific Discovery in Physical and Biological Systems](http://physicsoflivingsystems.org/events/foundations-of-machine-learning-and-its-applications-for-scientific-discovery-in-physical-and-biological-systems-workshop/) , June 24, 2022. ([video](https://www.youtube.com/watch?v=zH3NyRVQWUM))
 
 APS March Meeting: [Session Z43](https://meetings.aps.org/Meeting/MAR22/Session/Z43), March 18, 2022.
 
