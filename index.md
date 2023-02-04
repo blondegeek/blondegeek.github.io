@@ -11,5 +11,8 @@
 
 <!-- ## Upcoming <s>Travel and</s> (Remote) Talks {#talks} -->
 <!-- * ... -->
+
 ## Upcoming Travel and Talks {#talks}
 * [REMOTE] [ML4Materials](https://www.ml4materials.com/), Workshop @ ICLR '23, Fully Virtual, Kigali Rwanda, May 4 and 5, 2023.
+
+### I am piloting a coding-intensive course Spring 2023 on [Symmetry and its Application to Machine Learning](http://symm4ml.mit.edu/). I may be particularly delayed in correspondances.
