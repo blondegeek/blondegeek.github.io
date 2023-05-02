@@ -3,6 +3,8 @@
 
 ## 2023
 
+[Boston Symmetry Day](https://bostonsymmetry.github.io/), Northeastern University, April 7, 2023.
+
 [Learning and Emergence in Molecular Systems](http://www.ipam.ucla.edu/programs/workshops/learning-and-emergence-in-molecular-systems/), IPAM at UCLA, January 23-27, 2023. ([video](https://www.youtube.com/watch?v=Qr-k_oXTuqw)) ([slides](https://docs.google.com/presentation/d/1mQMbfOedH3tzuA4WyAHQx6SWRLvD5cQ62mb6Xtixewc/edit?usp=sharing))
 
 [AI Institute for Dynamic Systems](http://dynamicsai.org/) Seminar, University of Washington, January 6th, 2023.
