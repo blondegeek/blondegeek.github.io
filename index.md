@@ -24,4 +24,6 @@
 
 * [IAIFI Summer Workshop](https://iaifi.org/summer-workshop), Northeastern University, August 14–18, 2023.
 
+* [GraphEx Workshop](https://graphex.mit.edu/), MIT Endicott House, August 15-16, 2023.
+
 ### I am piloting a coding-intensive course Spring 2023 on [Symmetry and its Application to Machine Learning](http://symm4ml.mit.edu/). I may be particularly delayed in correspondances.
