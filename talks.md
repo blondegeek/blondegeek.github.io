@@ -3,11 +3,15 @@
 
 ## 2023
 
+[MIT Numerical Methods for Partial Differential Equations Seminar](https://math.mit.edu/nmpde/), MIT 2-449 4:30-5:30 pm ET, May 10, 2023.
+
+[REMOTE] [ML4Materials](https://www.ml4materials.com/), Workshop @ ICLR '23, Fully Virtual, Kigali Rwanda, May 4 and 5, 2023 ([video](https://iclr.cc/virtual/2023/workshop/12823#wse-detail-14141)).
+
 [Boston Symmetry Day](https://bostonsymmetry.github.io/), Northeastern University, April 7, 2023.
 
 [Learning and Emergence in Molecular Systems](http://www.ipam.ucla.edu/programs/workshops/learning-and-emergence-in-molecular-systems/), IPAM at UCLA, January 23-27, 2023. ([video](https://www.youtube.com/watch?v=Qr-k_oXTuqw)) ([slides](https://docs.google.com/presentation/d/1mQMbfOedH3tzuA4WyAHQx6SWRLvD5cQ62mb6Xtixewc/edit?usp=sharing))
 
-[AI Institute for Dynamic Systems](http://dynamicsai.org/) Seminar, University of Washington, January 6th, 2023.
+[AI Institute for Dynamic Systems](http://dynamicsai.org/) Seminar, University of Washington, January 6th, 2023 ([video](https://www.youtube.com/watch?v=6OPLzYzbHWI&ab_channel=PhysicsInformedMachineLearning)).
 
 ## 2022
 [Catalyst Conversations](https://www.catalystconversations.org/), December 15, 2022. ([video](https://www.youtube.com/watch?v=PI_GQbUVXNg))
