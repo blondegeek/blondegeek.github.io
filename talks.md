@@ -3,6 +3,8 @@
 
 ## 2023
 
+[REMOTE] Seminar, [ORIGINS Data Science Lab (ODSL)](https://www.origins-cluster.de/ueber-uns/mitglieder/origins-data-science-lab), Technical University in Munich, August 18, 2023.
+
 [GraphEx Workshop](https://graphex.mit.edu/), MIT Endicott House, August 15-16, 2023.
 
 [IAIFI Summer Workshop](https://iaifi.org/summer-workshop), Northeastern University, August 14–18, 2023.

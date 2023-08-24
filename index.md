@@ -14,7 +14,7 @@
 
 ## Upcoming Travel and Talks {#talks}
 
-* [REMOTE] Seminar, [ORIGINS Data Science Lab (ODSL)](https://www.origins-cluster.de/ueber-uns/mitglieder/origins-data-science-lab), Technical University in Munich, August 18, 2023.
+* Guest Lecture 6.S898 Deep Learning, MIT, October 3, 2023.
 
 * AI in Science Seminar Series, University of Chicago, November 14, 2023.
 
