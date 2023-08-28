@@ -38,7 +38,7 @@ Computational Research Division, Berkeley Lab</i>
 <br>
 <i> Analytis Group, U.C. Berkeley </i>
 <br>
-<b> (Fall 2013 - Spring 2018) </b>
+<b> (Spring 2012 - Spring 2013) </b>
 
 * ### Undergraduate Research Assistant
 <i> Compact Muon Solenoid, MIT and CERN </i>
