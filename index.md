@@ -20,4 +20,3 @@
 
 * Applied AI Speaker Series, Argonne National Laboratory, November 15, 2023.
 
-### I am piloting a coding-intensive course Spring 2023 on [Symmetry and its Application to Machine Learning](http://symm4ml.mit.edu/). I may be particularly delayed in correspondances.
