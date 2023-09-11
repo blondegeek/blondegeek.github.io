@@ -15,8 +15,7 @@
 ## Upcoming Travel and Talks {#talks}
 
 * Guest Lecture 6.S898 Deep Learning, MIT, October 3, 2023.
-
 * AI in Science Seminar Series, University of Chicago, November 14, 2023.
-
 * Applied AI Speaker Series, Argonne National Laboratory, November 15, 2023.
+* [BIDMAP Seminar](https://bidmap.berkeley.edu/seminars), UC Berkeley, February 1, 2024.
 
