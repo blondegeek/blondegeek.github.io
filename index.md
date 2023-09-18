@@ -14,6 +14,7 @@
 
 ## Upcoming Travel and Talks {#talks}
 
+* [REMOTE] Panel Discussion on Formal Methods in the Service of Science, IBM 24 Hours of Science, September, 20, 2023.
 * Guest Lecture 6.S898 Deep Learning, MIT, October 3, 2023.
 * AI in Science Seminar Series, University of Chicago, November 14, 2023.
 * Applied AI Speaker Series, Argonne National Laboratory, November 15, 2023.
