@@ -14,9 +14,12 @@
 
 ## Upcoming Travel and Talks {#talks}
 
-* [REMOTE] Panel Discussion on Formal Methods in the Service of Science, IBM 24 Hours of Science, September, 20, 2023.
-* Guest Lecture 6.S898 Deep Learning, MIT, October 3, 2023.
+* [MolML](https://www.moml.mit.edu/), MIT, November 8, 2023.
 * AI in Science Seminar Series, University of Chicago, November 14, 2023.
 * Applied AI Speaker Series, Argonne National Laboratory, November 15, 2023.
+* [MIT Path of Professorship Workshop](https://oge.mit.edu/student-support-development/career-planning/path-of-professorship/) -- Session: Negotiating the Offer, November 18th, 2022.
 * [BIDMAP Seminar](https://bidmap.berkeley.edu/seminars), UC Berkeley, February 1, 2024.
+* [APS March Meeting](https://march.aps.org/), Minneapolis, Minnesota, March 3-8, 2024. 
+* [AI≡Science: Strengthening the Bond Between the Sciences and Artificial Intelligence](https://simons.berkeley.edu/workshops/aiscience-strengthening-bond-between-sciences-artificial-intelligence), Simons Institute at UC Berkeley, June 10-14, 2024.
+* [The Role of Theories, Simulation, and Machine Learning in Materials Discovery, Gordon Research Conference](https://www.grc.org/computational-materials-science-and-engineering-conference/2024/), Newry, Maine, July 21-26, 2024.
 

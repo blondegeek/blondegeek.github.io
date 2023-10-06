@@ -2,6 +2,9 @@
 (including videos and slides)
 
 ## 2023
+Guest Lecture 6.S898 Deep Learning, MIT, October 3, 2023.
+
+[REMOTE] Panel Discussion on Formal Methods in the Service of Science, IBM 24 Hours of Science, September, 20, 2023.
 
 [REMOTE] Seminar, [ORIGINS Data Science Lab (ODSL)](https://www.origins-cluster.de/ueber-uns/mitglieder/origins-data-science-lab), Technical University in Munich, August 18, 2023.
 
