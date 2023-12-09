@@ -13,16 +13,6 @@
 <!-- * ... -->
 
 ## Upcoming Travel and Talks {#talks}
-
-* [MolML](https://www.moml.mit.edu/), MIT, November 8, 2023.
-* AI in Science Seminar Series, University of Chicago, November 14, 2023.
-* Applied AI Speaker Series, Argonne National Laboratory, November 15, 2023.
-* [MIT Path of Professorship Workshop](https://oge.mit.edu/student-support-development/career-planning/path-of-professorship/) -- Session: Negotiating the Offer, November 18th, 2022.
-* [MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2023-mrs-fall-meeting), Boston, MA, November 27 - December 1st, 2023.
-    * Links to group talks:
-    * (Mon, Nov. 27) [Tuong Phung](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2023-mrs-fall-meeting/call-for-papers/presentations/detail/2023_mrs_fall_meeting/2023_mrs_fall_meeting-3959208)
-    * (Tues, Nov. 28) [Adriana Ladera](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2023-mrs-fall-meeting/call-for-papers/presentations/detail/2023_mrs_fall_meeting/2023_mrs_fall_meeting-3958692), [Tess Smidt](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2023-mrs-fall-meeting/call-for-papers/presentations/detail/2023_mrs_fall_meeting/2023_mrs_fall_meeting-3954104), [Aria Mansouri-Tehrani](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2023-mrs-fall-meeting/call-for-papers/presentations/detail/2023_mrs_fall_meeting/2023_mrs_fall_meeting-3957746), [Elyssa Hofgard](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2023-mrs-fall-meeting/call-for-papers/presentations/detail/2023_mrs_fall_meeting/2023_mrs_fall_meeting-3956013), [Elyssa Hofgard](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2023-mrs-fall-meeting/call-for-papers/presentations/detail/2023_mrs_fall_meeting/2023_mrs_fall_meeting-3956019)
-    * (Fri, Dec. 1) [Song Kim](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2023-mrs-fall-meeting/call-for-papers/presentations/detail/2023_mrs_fall_meeting/2023_mrs_fall_meeting-3956645).
 * [REMOTE] [Materials Project Seminar](https://next-gen.materialsproject.org/community/seminar), December 14, 2023. 
 * [BIDMAP Seminar](https://bidmap.berkeley.edu/seminars), UC Berkeley, February 1, 2024.
 * [APS March Meeting](https://march.aps.org/), Minneapolis, Minnesota, March 3-8, 2024. 

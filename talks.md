@@ -2,6 +2,14 @@
 (including videos and slides)
 
 ## 2023
+MRS Fall Meeting, [Invited Speaker](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2023-mrs-fall-meeting/symposium-sessions/presentations/detail/2023_mrs_fall_meeting/2023_mrs_fall_meeting-3954104), November 28, 2023.
+
+Applied AI Speaker Series, Argonne National Laboratory, November 15, 2023.
+
+AI in Science Seminar Series, University of Chicago, November 14, 2023.
+
+[MolML](https://www.moml.mit.edu/), MIT, November 8, 2023.
+
 Guest Lecture 6.S898 Deep Learning, MIT, October 3, 2023.
 
 [REMOTE] Panel Discussion on Formal Methods in the Service of Science, IBM 24 Hours of Science, September, 20, 2023.
