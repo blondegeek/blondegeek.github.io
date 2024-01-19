@@ -13,7 +13,6 @@
 <!-- * ... -->
 
 ## Upcoming Travel and Talks {#talks}
-* [REMOTE] [Materials Project Seminar](https://next-gen.materialsproject.org/community/seminar), December 14, 2023. 
 * [BIDMAP Seminar](https://bidmap.berkeley.edu/seminars), UC Berkeley, February 1, 2024.
 * [APS March Meeting](https://march.aps.org/), Minneapolis, Minnesota, March 3-8, 2024. 
 * [AI≡Science: Strengthening the Bond Between the Sciences and Artificial Intelligence](https://simons.berkeley.edu/workshops/aiscience-strengthening-bond-between-sciences-artificial-intelligence), Simons Institute at UC Berkeley, June 10-14, 2024.

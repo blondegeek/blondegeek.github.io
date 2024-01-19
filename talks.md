@@ -2,6 +2,9 @@
 (including videos and slides)
 
 ## 2023
+
+[REMOTE] [Materials Project Seminar](https://next-gen.materialsproject.org/community/seminar), December 14, 2023. [(video)](https://www.youtube.com/watch?v=R3N6BocbknM&ab_channel=MaterialsProject) 
+
 MRS Fall Meeting, [Invited Speaker](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2023-mrs-fall-meeting/symposium-sessions/presentations/detail/2023_mrs_fall_meeting/2023_mrs_fall_meeting-3954104), November 28, 2023.
 
 Applied AI Speaker Series, Argonne National Laboratory, November 15, 2023.
@@ -18,13 +21,13 @@ Guest Lecture 6.S898 Deep Learning, MIT, October 3, 2023.
 
 [GraphEx Workshop](https://graphex.mit.edu/), MIT Endicott House, August 15-16, 2023.
 
-[IAIFI Summer Workshop](https://iaifi.org/summer-workshop), Northeastern University, August 14–18, 2023.
+[IAIFI Summer Workshop](https://iaifi.org/summer-workshop), Northeastern University, August 14–18, 2023. [(video)](https://www.youtube.com/watch?v=90Mw_9u0nl0&list=PLBY0ED2StbGalYxIbUNEK6ADuEv35W6ig&index=6&t=1s)
 
 [Lecture for Summer Geometry Initiative](https://sgi.mit.edu/), MIT, August 3, 2023.
 
-[ICML Workshop on TAG-ML](https://www.tagds.com/events/conference-workshops/tag-ml23), Honolulu, HI, July 28th, 2023.
+[ICML Workshop on TAG-ML](https://www.tagds.com/events/conference-workshops/tag-ml23), Honolulu, HI, July 28th, 2023. [(video)](https://icml.cc/virtual/2023/28461)
 
-[RSS Workshop on Symmetries in Robot Learning](https://sites.google.com/view/rss23-sym), July 10th, Daegu, Republic of Korea, July 10th, 2023.
+[RSS Workshop on Symmetries in Robot Learning](https://sites.google.com/view/rss23-sym), July 10th, Daegu, Republic of Korea, July 10th, 2023. [(video)](https://youtu.be/E2l16T0biu4?si=o0rM8soJBUKnXZOf&t=266)
 
 [MIT Numerical Methods for Partial Differential Equations Seminar](https://math.mit.edu/nmpde/), MIT 2-449 4:30-5:30 pm ET, May 10, 2023.
 
