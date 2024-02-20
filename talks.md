@@ -1,6 +1,10 @@
 # Previous Talks 
 (including videos and slides)
 
+## 2024
+
+[BIDMAP Seminar](https://bidmap.berkeley.edu/seminars), UC Berkeley, February 1, 2024.
+
 ## 2023
 
 [REMOTE] [Materials Project Seminar](https://next-gen.materialsproject.org/community/seminar), December 14, 2023. [(video)](https://www.youtube.com/watch?v=R3N6BocbknM&ab_channel=MaterialsProject) 
