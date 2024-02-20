@@ -20,6 +20,7 @@
 * [UChicago AI+Science Summer School](https://datascience.uchicago.edu/events/aiscience-summer-school-2024/), July 15-19, 2024.
 * Symposium on Machine learning, simulations and experiments for ultra low-power materials and devices, Spetses, Greece, July 14-19, 2024.
 * [The Role of Theories, Simulation, and Machine Learning in Materials Discovery, Gordon Research Conference](https://www.grc.org/computational-materials-science-and-engineering-conference/2024/), Newry, Maine, July 21-26, 2024.
+* [The 5th International Conference on Data-Driven Plasma Science](https://na.eventscloud.com/website/63026/home/), UC Berkeley, August 12-16, 2024.
 * [CAMD Summer School](https://dtu.events/camdsummerschool2024/conference) on Electronic Structure Theory and Materials Design, Helsingør, Denmark, August 18-23, 2024.
 * [CECAM workshop "ML Potentials: From Interface to Solution"](https://www.cecam.org/workshop-details/1318), Ruhr-Universität
 Bochum, Germany, August 27-29, 2024.
