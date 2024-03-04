@@ -16,7 +16,7 @@
 * [APS March Meeting](https://march.aps.org/), Minneapolis, MN, March 3-8, 2024.
     * Monday: [Adriana](https://meetings.aps.org/Meeting/MAR24/Session/B60.4)
     * Tuesday: [Tuong](https://meetings.aps.org/Meeting/MAR24/Session/F62.1) and [YuQing](https://meetings.aps.org/Meeting/MAR24/Session/G18.11)
-    * Thursday: [Tess](https://meetings.aps.org/Meeting/MAR24/Session/W28.1), [Elyssa](https://meetings.aps.org/Meeting/MAR24/Session/W18.7)
+    * Thursday: [Tess](https://meetings.aps.org/Meeting/MAR24/Session/W28.1) and [Elyssa](https://meetings.aps.org/Meeting/MAR24/Session/W18.7)
 * Seminar, [Simons Center for Computational and Physical Chemistry](https://wp.nyu.edu/sccpc/), New York Univeristy, March 25, 2024.
 * Workshop on [Machine Learning in Electronic-Structure Theory](https://www.imsi.institute/activities/data-driven-materials-informatics/machine-learning-in-electronic-structure-theory/), [IMSI](https://www.uchicago.edu/en/education-and-research/center/institute-for-mathematical-and-statistical-innovation) at UChicago, March 25-29, 2024.
 * [AI≡Science: Strengthening the Bond Between the Sciences and Artificial Intelligence](https://simons.berkeley.edu/workshops/aiscience-strengthening-bond-between-sciences-artificial-intelligence), Simons Institute at UC Berkeley, June 10-14, 2024.
