@@ -3,6 +3,11 @@
 
 ## 2024
 
+[APS March Meeting](https://march.aps.org/), Minneapolis, MN, March 3-8, 2024.
+    * Monday: [Adriana](https://meetings.aps.org/Meeting/MAR24/Session/B60.4)
+    * Tuesday: [Tuong](https://meetings.aps.org/Meeting/MAR24/Session/F62.1) and [YuQing](https://meetings.aps.org/Meeting/MAR24/Session/G18.11)
+    * Thursday: [Tess](https://meetings.aps.org/Meeting/MAR24/Session/W28.1) and [Elyssa](https://meetings.aps.org/Meeting/MAR24/Session/W18.7)
+
 [BIDMAP Seminar](https://bidmap.berkeley.edu/seminars), UC Berkeley, February 1, 2024.
 
 ## 2023
