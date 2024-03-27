@@ -25,3 +25,4 @@
 * [CAMD Summer School](https://dtu.events/camdsummerschool2024/conference) on Electronic Structure Theory and Materials Design, Helsingør, Denmark, August 18-23, 2024.
 * [CECAM workshop "ML Potentials: From Interface to Solution"](https://www.cecam.org/workshop-details/1318), Ruhr-Universität
 Bochum, Germany, August 27-29, 2024.
+* CECAM55: Fostering Computational Science for Societal Progress, EPFL, Lausanne, Switzerland, September 2-4, 2024.
