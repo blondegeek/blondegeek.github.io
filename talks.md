@@ -2,6 +2,13 @@
 (including videos and slides)
 
 ## 2024
+Simons Foundation's ML@Flatiron Seminar Series, New York, NY May 14, 2024.
+
+MIT CSE Community Seminar, April 5 noon-1pm, MIT 45-432, 2024.
+
+Workshop on [Machine Learning in Electronic-Structure Theory](https://www.imsi.institute/activities/data-driven-materials-informatics/machine-learning-in-electronic-structure-theory/), [IMSI](https://www.uchicago.edu/en/education-and-research/center/institute-for-mathematical-and-statistical-innovation) at UChicago, March 25-29, 2024.
+
+Seminar, [Simons Center for Computational and Physical Chemistry](https://wp.nyu.edu/sccpc/), New York University, March 25, 2024.
 
 [APS March Meeting](https://march.aps.org/), Minneapolis, MN, March 3-8, 2024.
     * Monday: [Adriana](https://meetings.aps.org/Meeting/MAR24/Session/B60.4)
