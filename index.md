@@ -13,7 +13,7 @@
 <!-- * ... -->
 
 ## Upcoming Travel and Talks {#talks}
-* [AI≡Science: Strengthening the Bond Between the Sciences and Artificial Intelligence](https://simons.berkeley.edu/workshops/aiscience-strengthening-bond-between-sciences-artificial-intelligence), Simons Institute at UC Berkeley, June 10-14, 2024.
+* [AI≡Science: Strengthening the Bond Between the Sciences and Artificial Intelligence](https://simons.berkeley.edu/workshops/aiscience-strengthening-bond-between-sciences-artificial-intelligence), Simons Institute at UC Berkeley, June 10-14, 2024. [(slides)](https://tinyurl.com/tess-ai4science-2024)
 * Symposium on "Machine learning, simulations and experiments for ultra low-power materials and devices", Spetses, Greece, July 7-12, 2024.
 * [UChicago AI+Science Summer School](https://datascience.uchicago.edu/events/aiscience-summer-school-2024/), July 15-19, 2024.
 * [The Role of Theories, Simulation, and Machine Learning in Materials Discovery, Gordon Research Conference](https://www.grc.org/computational-materials-science-and-engineering-conference/2024/), Newry, Maine, July 21-26, 2024.
