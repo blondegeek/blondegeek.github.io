@@ -2,6 +2,25 @@
 (including videos and slides)
 
 ## 2024
+
+~~[CECAM55: Fostering Computational Science for Societal Progress](https://cecam55.cecam.org/), EPFL, Lausanne, Switzerland, September 2-4, 2024.~~ (Thanks, Mario, for subsituting for me!)
+
+~~[CECAM workshop "ML Potentials: From Interface to Solution"](https://www.cecam.org/workshop-details/1318), Ruhr-Universität, Bochum, Germany, August 27-29, 2024.~~ (Thanks, Jigyasa, for substituting for me!)
+
+~~[CAMD Summer School](https://dtu.events/camdsummerschool2024/conference) on Electronic Structure Theory and Materials Design, Helsingør, Denmark, August 18-23, 2024.~~
+
+~~[HAMLET-PHYSICS Conference/Workshop](https://indico.nbi.ku.dk/event/2067/), University of Copenhagen, August 19-21, 2024.~~
+
+~~[The 5th International Conference on Data-Driven Plasma Science](https://na.eventscloud.com/website/63026/home/), UC Berkeley, August 12-16, 2024.~~ (Thanks, Elyssa, for substituting for me!)
+
+[The Role of Theories, Simulation, and Machine Learning in Materials Discovery, Gordon Research Conference](https://www.grc.org/computational-materials-science-and-engineering-conference/2024/), Newry, Maine, July 21-26, 2024.
+
+[UChicago AI+Science Summer School](https://datascience.uchicago.edu/events/aiscience-summer-school-2024/), July 15-19, 2024.
+
+Symposium on "Machine learning, simulations and experiments for ultra low-power materials and devices", Spetses, Greece, July 7-12, 2024.
+
+[AI≡Science: Strengthening the Bond Between the Sciences and Artificial Intelligence](https://simons.berkeley.edu/workshops/aiscience-strengthening-bond-between-sciences-artificial-intelligence), Simons Institute at UC Berkeley, June 10-14, 2024. [(slides)](https://tinyurl.com/tess-ai4science-2024)
+
 Simons Foundation's ML@Flatiron Seminar Series, New York, NY May 14, 2024.
 
 MIT CSE Community Seminar, April 5 noon-1pm, MIT 45-432, 2024.
