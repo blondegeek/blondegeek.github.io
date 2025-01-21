@@ -13,6 +13,5 @@
 <!-- * ... -->
 
 ## Upcoming Travel and Talks {#talks}
-* [Hudson Forum](https://hudsonforum.org/), IBM Thomas J. Watson Research Center, Yorktown Heights, NY, September 10, 2024.
-* Materials Science Seminar, Yale University, New Haven, CT, October 30th, 2024.
-* GRASP on Robotics Seminar, University of Pennsylvania, Philadelphia, PA, November 1st, 2024. 
+* Materials Science Seminar at Columbia University, January 24, 2025.
+* [Physics for future](https://www.uni.lu/fstm-en/events/physics-for-future/), Univeristy of Luxembourg, May 13-14, 2025.

@@ -3,6 +3,12 @@
 
 ## 2024
 
+GRASP on Robotics Seminar, University of Pennsylvania, Philadelphia, PA, November 1st, 2024. 
+
+Materials Science Seminar, Yale University, New Haven, CT, October 30th, 2024.
+
+[Hudson Forum](https://hudsonforum.org/), IBM Thomas J. Watson Research Center, Yorktown Heights, NY, September 10, 2024.
+
 ~~[CECAM55: Fostering Computational Science for Societal Progress](https://cecam55.cecam.org/), EPFL, Lausanne, Switzerland, September 2-4, 2024.~~ (Thanks, Mario, for subsituting for me!)
 
 ~~[CECAM workshop "ML Potentials: From Interface to Solution"](https://www.cecam.org/workshop-details/1318), Ruhr-Universität, Bochum, Germany, August 27-29, 2024.~~ (Thanks, Jigyasa, for substituting for me!)
