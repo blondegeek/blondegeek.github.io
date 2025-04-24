@@ -1,6 +1,10 @@
 # Previous Talks 
 (including videos and slides)
 
+## 2025
+
+Materials Science Seminar at Columbia University, January 24, 2025.
+
 ## 2024
 
 GRASP on Robotics Seminar, University of Pennsylvania, Philadelphia, PA, November 1st, 2024. 
