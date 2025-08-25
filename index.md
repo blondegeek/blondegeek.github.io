@@ -13,9 +13,7 @@
 <!-- * ... -->
 
 ## Upcoming Travel and Talks {#talks}
-* [Physics for future](https://www.uni.lu/fstm-en/events/physics-for-future/), Univeristy of Luxembourg, May 13-14, 2025.
-* [Equivariant Vision](https://equivision.github.io/): From Theory to Practice at CVPR 2025 (Jun 10-15, Nashville TN)
-* NYC Summit for Machine Learning in Chemistry, Wednesday - Friday, June 25 - 27, 2025.
-* CECAM: Machine Learning Advances for Molecular and Materials Property Prediction, University of Notre Dame July 7-9, 2025.
-* [6th Artificial Intelligence for Materials Science (AIMS)](https://www.nist.gov/news-events/events/2025/07/artificial-intelligence-materials-science-aims-workshop) hosted by NIST, National Cybersecurity Center of Excellence (NCCoE), Rockville, MD, July 9-10, 2025.
+* [Harvard CMSA: Big Data Conference](https://cmsa.fas.harvard.edu/event/bigdata_2025/), September 11th - September 12th, 2025.
 * [2nd Northeast Quantum Forum (NEQT) Conference](https://sites.usnh.edu/neqt/), University of New Hampshire, October 14th to 17th, 2025.
+* Tufts ECE Seminar, 10:30-noon 10/31.
+* [ML4PS Workshop](https://ml4physicalsciences.github.io/2025/) at NeurIPS 2025
