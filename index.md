@@ -1,7 +1,7 @@
 ## [Atomic architect.](https://cs.lbl.gov/news-media/news/2018/tess-smidt-atomic-architect-and-2018-luis-alvarez-fellow/) Wrangler of neural nets. Geometry junkie. blondegeek.
 
 
-<a href="https://www.eecs.mit.edu/people/faculty/tess-smidt"><font color="A83869">Assistant Professor</font></a>
+<a href="https://www.eecs.mit.edu/people/faculty/tess-smidt"><font color="A83869">Associate Professor</font></a>
 <br>
 <a href="https://www.eecs.mit.edu/">MIT Department of Electrical Engineering and Computer Science</a>
 
