@@ -12,12 +12,19 @@ S.B in Physics with Minor in Architecture, <b>MIT</b> (2012)
 
 ## Research Positions
 
-* ### Assistant Professor
+* ### Associate Professor
 <i>Department of Electrical Engineering and Computer Science, MIT</i>
 <br>
 <i>Principal Investigator, Research Laboratory of Electronics</i>
 <br>
-<b>(Fall 2021 - present)</b>
+<b>(Summer 2025 - present)</b>
+
+* # Assistant Professor
+<i>Department of Electrical Engineering and Computer Science, MIT</i>
+<br>
+<i>Principal Investigator, Research Laboratory of Electronics</i>
+<br>
+<b>(Fall 2021 - Summer 2025)</b>
 
 * ### Luis W. Alvarez Postdoctoral Fellow in Computing Sciences
 <i>Computational Chemistry, Materials, and Climate Group
