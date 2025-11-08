@@ -1,6 +1,8 @@
 # Bio and CV
 
-Tess Smidt is an Associate Professor of Electrical Engineering and Computer Science at MIT. Tess earned her SB in Physics from MIT in 2012 and her PhD in Physics from the University of California, Berkeley in 2018. Her research focuses on machine learning that incorporates physical and geometric constraints, with applications to materials design. Prior to joining the MIT EECS faculty, she was the 2018 Alvarez Postdoctoral Fellow in Computing Sciences at Lawrence Berkeley National Laboratory and a Software Engineering Intern on the Google Accelerated Sciences team where she developed Euclidean symmetry equivariant neural networks which naturally handle 3D geometry and geometric tensor data.
+Tess Smidt is an Associate Professor of Electrical Engineering and Computer Science at MIT and Principal Investigator of the Atomic Architects group in the Research Laboratory of Electronics. Her research sits at the intersection of physics, geometry, and machine learning, where she develops algorithms that embed physical and geometric structure into AI systems to model and design molecules, materials, and other physical systems.
+
+Smidt is a 2025 AI2050 Early Career Fellow of Schmidt Sciences and a recipient of the Air Force Office of Scientific Research (AFOSR) Young Investigator Research Program (YIP) Award. Before joining the MIT faculty, she was the Alvarez Postdoctoral Fellow in Computing Sciences at Lawrence Berkeley National Laboratory and a Software Engineering Intern at Google Accelerated Science, where she co-developed the first Euclidean symmetry-equivariant neural networks, architectures which naturally handle 3D geometry and geometric tensor data. She earned her SB in Physics from MIT and her PhD in Physics from the University of California, Berkeley.
 
 ## [Full CV](pdfs/TessSmidt_CV.pdf)
 
