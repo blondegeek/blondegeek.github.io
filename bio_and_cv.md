@@ -21,7 +21,7 @@ S.B in Physics with Minor in Architecture, <b>MIT</b> (2012)
 <br>
 <b>(Summer 2025 - present)</b>
 
-* # Assistant Professor
+* ### Assistant Professor
 <i>Department of Electrical Engineering and Computer Science, MIT</i>
 <br>
 <i>Principal Investigator, Research Laboratory of Electronics</i>
