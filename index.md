@@ -13,7 +13,7 @@
 <!-- * ... -->
 
 ## Upcoming Travel and Talks {#talks}
-* MIT Sports Summit, March 4, 20226
+* MIT Sports Summit, March 4, 2026
 * APS March Meeting, Denver, Colorado, March 15-20, 2026
 * CMU-UPitt CPCB Seminar, March 27, 2026
 * Keller Colloquium Talk at Caltech, April 20, 2026
