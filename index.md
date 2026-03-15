@@ -15,8 +15,8 @@
 ## Upcoming Travel and Talks {#talks}
 * MIT Sports Summit, March 4, 2026
 * APS March Meeting, Denver, Colorado, March 15-20, 2026
-  * [Data Science For Physicists Tutorial II](https://github.com/butler-julie/DataScienceForPhysicists2026), March 15, 2026
   * Atomic Architects group talks:
+    * Tess Smidt — [Data Science For Physicists Tutorial II](https://github.com/butler-julie/DataScienceForPhysicists2026), Sun 3/15 3pm, Room 601/603
     * Jigyasa Nigam — [Reconstructing atomic geometries from concise local representations](https://summit.aps.org/events/MAR-A71), Mon 3/16, 9:12am, Bluebird 3G
     * Adriana Ladera — [Stabilizing Structural Transitional States between 1- and 2-D Topologies via H-Bond Crystal Engineering](https://summit.aps.org/events/MAR-A36), Mon 3/16, 10:36am, Room 406
     * Elyssa Hofgard — [Using Equivariant Neural Networks to Learn Multipolar Order Parameters](https://summit.aps.org/events/MAR-C38), Mon 3/16, 5:54pm, Room 503
