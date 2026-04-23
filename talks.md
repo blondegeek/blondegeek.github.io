@@ -1,6 +1,27 @@
 # Previous Talks 
 (including videos and slides)
 
+## 2026
+
+Keller Colloquium Talk at Caltech, April 20, 2026
+
+CMU-UPitt CPCB Seminar, March 27, 2026
+
+APS March Meeting, Denver, Colorado, March 15-20, 2026
+* Atomic Architects group talks:
+  * Tess Smidt — [Data Science For Physicists Tutorial II](https://github.com/butler-julie/DataScienceForPhysicists2026), Sun 3/15 3pm, Room 601/603
+  * Jigyasa Nigam — [Reconstructing atomic geometries from concise local representations](https://summit.aps.org/events/MAR-A71), Mon 3/16, 9:12am, Bluebird 3G
+  * Adriana Ladera — [Stabilizing Structural Transitional States between 1- and 2-D Topologies via H-Bond Crystal Engineering](https://summit.aps.org/events/MAR-A36), Mon 3/16, 10:36am, Room 406
+  * Elyssa Hofgard — [Using Equivariant Neural Networks to Learn Multipolar Order Parameters](https://summit.aps.org/events/MAR-C38), Mon 3/16, 5:54pm, Room 503
+  * Tess Smidt — [Context, Culture, and Craft in Effective AI for Physics](https://summit.aps.org/events/MAR-G01) (invited), Tue 3/17, 1:12pm, Bellco Theatre 1-2
+  * Emily Oliphant — [Bringing physical insight into ML through COGITO-based architectures](https://summit.aps.org/events/MAR-S43), Thu 3/19, 9:00am, Room 601
+* Collaborator talks:
+  * Chuin Wei Tan (Harvard, Kozinsky group) — [Methodological and Performance Advances in NequIP and Allegro](https://summit.aps.org/events/MAR-A45), Mon 3/16, 8:36am, Room 605 
+  * Morten Eskildsen (University of Notre Dame) — [Critical depinning and collective dynamics of magnetic skyrmion lattices](https://summit.aps.org/events/MAR-A40), Mon 3/16, 9:12am, Room 505
+
+MIT Sports Summit, March 4, 2026
+
+
 ## 2025
 [ML4PS Workshop](https://ml4physicalsciences.github.io/2025/) at NeurIPS 2025
 
