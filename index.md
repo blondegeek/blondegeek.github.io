@@ -13,6 +13,6 @@
 <!-- * ... -->
 
 ## Upcoming Travel and Talks {#talks}
-* CECAM, June 1-3, 2026, Cornell Tech
+* [CECAM Workshop on Physics-aware ML for Molecules and Materials](https://www.cecam.org/workshop-details/physics-aware-machine-learning-for-molecules-and-materials-1554), June 1-3, 2026, Cornell Tech
 * 2026 Computational Chemistry GRC, Castelldefels, Spain, July 19–24, 2026
 * TYC 20th Anniversary Symposium, London, UK, December 14-15, 2026
