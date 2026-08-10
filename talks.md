@@ -2,6 +2,9 @@
 (including videos and slides)
 
 ## 2026
+[2026 Computational Chemistry GRC](https://www.grc.org/computational-chemistry-conference/2026/), Castelldefels, Spain, July 19–24, 2026
+
+[CECAM Workshop on Physics-aware ML for Molecules and Materials](https://www.cecam.org/workshop-details/physics-aware-machine-learning-for-molecules-and-materials-1554), June 1-3, 2026, Cornell Tech
 
 Keller Colloquium Talk at Caltech, April 20, 2026
 
@@ -20,7 +23,6 @@ APS March Meeting, Denver, Colorado, March 15-20, 2026
   * Morten Eskildsen (University of Notre Dame) — [Critical depinning and collective dynamics of magnetic skyrmion lattices](https://summit.aps.org/events/MAR-A40), Mon 3/16, 9:12am, Room 505
 
 MIT Sports Summit, March 4, 2026
-
 
 ## 2025
 [ML4PS Workshop](https://ml4physicalsciences.github.io/2025/) at NeurIPS 2025

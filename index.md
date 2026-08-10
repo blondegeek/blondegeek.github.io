@@ -13,6 +13,5 @@
 <!-- * ... -->
 
 ## Upcoming Travel and Talks {#talks}
-* [CECAM Workshop on Physics-aware ML for Molecules and Materials](https://www.cecam.org/workshop-details/physics-aware-machine-learning-for-molecules-and-materials-1554), June 1-3, 2026, Cornell Tech
-* [2026 Computational Chemistry GRC](https://www.grc.org/computational-chemistry-conference/2026/), Castelldefels, Spain, July 19–24, 2026
-* TYC 20th Anniversary Symposium, London, UK, December 14-15, 2026
+* [Mitsubishi Electric Research Laboratories Seminar](https://www.merl.com/news/?tags=MERL+Seminar+Series&talks=on), August 19, 2026.
+* Late 2026 - early 2027: Taking a break from speaking and professional travel surrounding maternity leave.
