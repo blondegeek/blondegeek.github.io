@@ -9,8 +9,7 @@
 <br>
 <a href="https://www.rle.mit.edu/">MIT Research Laboratory of Electronics</a>
 
-<!-- ## Upcoming <s>Travel and</s> (Remote) Talks {#talks} -->
-<!-- * ... -->
+## [A note for prospective Fall 2027 PhD students](/prospective)
 
 ## Upcoming Travel and Talks {#talks}
 * [Mitsubishi Electric Research Laboratories Seminar](https://www.merl.com/news/?tags=MERL+Seminar+Series&talks=on), August 19, 2026.
